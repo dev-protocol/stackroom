@@ -14,7 +14,7 @@ Instead of a burn this proposal provides more funds to the Ecosystem Fund relati
 
 ### Proposal Three: DEV Distribution
 
-![Proposal Three: DEV Distribution](https://raw.githubusercontent.com/dev-protocol/stackroom/proposal-burn-dev/proposal/burn-dev/asset/proposal-three-dev-distribution.svg?sanitize=true)
+![Proposal Three: DEV Distribution](https://raw.githubusercontent.com/dev-protocol/stackroom/0cd21bbff927dedbf90b46c38f463ba4bddbb37a/proposal/burn-dev/asset/proposal-three-dev-distribution.svg?sanitize=true)
 
 ### Proposal Three: Effects on Stakes.Social
 

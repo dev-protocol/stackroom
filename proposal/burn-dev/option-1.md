@@ -14,7 +14,7 @@ Burn 3.5 Million DEV tokens. As the aggregate supply decreases with the burn, th
 
 ### Proposal One: DEV Distribution
 
-![Proposal One: DEV Distribution](https://raw.githubusercontent.com/dev-protocol/stackroom/proposal-burn-dev/proposal/burn-dev/asset/proposal-one-dev-distribution.svg?sanitize=true)
+![Proposal One: DEV Distribution](https://raw.githubusercontent.com/dev-protocol/stackroom/0cd21bbff927dedbf90b46c38f463ba4bddbb37a/proposal/burn-dev/asset/proposal-one-dev-distribution.svg?sanitize=true)
 
 ### Proposal One: Effects on Stakes.Social
 
