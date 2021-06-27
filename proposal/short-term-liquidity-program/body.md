@@ -38,3 +38,7 @@ I propose the duration and liquidity rewards as follows:
 The new Geyser will start on July 2, 2021, at 9:00 in UTC.
 
 Existing liquidity providers can maximize their rewards on their existing Geyser by waiting until July 3, when the existing Geyser ends, and then migrating their LP tokens.
+
+## Discussions
+
+Discussions about this proposal can be started in [this post in the forum](https://community.devprotocol.xyz/t/short-term-liquidity-program/277).
