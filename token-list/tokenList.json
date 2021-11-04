@@ -1,0 +1,705 @@
+{
+    "name": "DEV Protocol Tokens",
+    "logoURI": "https://devprotocol.xyz/assets/logo.png",
+    "timestamp": "2021-11-02T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x042c2729ce3e61dd2f9dc5aae8f08d8e31886d2f",
+            "name": "MediaWiki",
+            "symbol": "WIKI",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x04a963b9cf3914147d690a5fa1d33ffcd4ac9918",
+            "name": "11ty",
+            "symbol": "ELE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x0c36dc557d33d32caf7147b84fd58d13d0a5ad6b",
+            "name": "Ethers",
+            "symbol": "ETJ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x0e72bbcdffc41e974622fa1f7576e24a545d9914",
+            "name": "Umbra",
+            "symbol": "UMB",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x104ba916bfbfb60a0424ad5f6392ceecad2fa466",
+            "name": "WomenWhoCode",
+            "symbol": "WWC",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x122979b16f38f9120796e99bcd7557531f96235f",
+            "name": "WalletConnect",
+            "symbol": "WAL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x1911aed93d684e74f0f752e16670e4498841daec",
+            "name": "Snowpack",
+            "symbol": "SNW",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x1eb46cb7969e31ae1dc6270efb33fc392c5a95c8",
+            "name": "ESLint",
+            "symbol": "ESL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x24f6eae189b00e798d6f1dc1587a1cd37ff2ca52",
+            "name": "Rust",
+            "symbol": "RS",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x3ad7ad0056bef278a6889ad497f1618880173bba",
+            "name": "ESLint",
+            "symbol": "ESL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x46d2a5a3eddbb5fd406898caca66421dac74be34",
+            "name": "Jekyll",
+            "symbol": "JKL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x47477508090fb1f96a8b45474636cc302c7d3323",
+            "name": "Python",
+            "symbol": "PY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x4b9161cb25c1fc754d50349363d556c972a601af",
+            "name": "Prysm",
+            "symbol": "PRY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x4cb307cf044f408c8e71caaf36d8de1ea5eba0bc",
+            "name": "WalletConnect",
+            "symbol": "WAL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x617b6ddef446619cfc9b33b9ac402dd7e335f367",
+            "name": "BrightID",
+            "symbol": "BID",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x64a9da91a4d613f075b9889539047831e59a73d5",
+            "name": "Signal",
+            "symbol": "SIG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x68fee9ab721f331a15df837bd21a4c575183c9be",
+            "name": "BrightID",
+            "symbol": "BID",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x6f04779981f9f155ffe42377d65cbbb5d6c9f4ad",
+            "name": "Python",
+            "symbol": "PY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x73b6ce69f01cb0ccd1733cc42fbf17bac8761804",
+            "name": "Jekyll",
+            "symbol": "JKL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x78cfb2b5b368d73bd49db32462f17a0fc1067d1e",
+            "name": "Deno",
+            "symbol": "DEN",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x78f1db1ecce95e02d6e69f851a41cad97dbb9557",
+            "name": "Lighthouse",
+            "symbol": "LIG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x9cb9c8f0bbd78623b7b48fffcc54bc9b83e45c71",
+            "name": "Web3j",
+            "symbol": "WEJ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x9d1d95f3382d7d2a6d3bece362a248a48e4af9d9",
+            "name": "Ethers",
+            "symbol": "ETJ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xa001a95648d0fb14c42ae717769a8c79688db5d6",
+            "name": "rotki",
+            "symbol": "ROT",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xa009df8db8bb73f745af631a9242c108c6527171",
+            "name": "rotki",
+            "symbol": "ROT",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xac6c1ad48682ba2e7f4e06f780d5e4bb21621434",
+            "name": "Web3j",
+            "symbol": "WEJ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xadc704003b5c374c7001b6b9a54759ae8fc86593",
+            "name": "MediaWiki",
+            "symbol": "WIKI",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xb0490ae118c6b1f22f5bb5c92c00e1767afb12c3",
+            "name": "Snowpack",
+            "symbol": "SNW",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xbee719401b9e4bde8e6e38eb400dd4445465205e",
+            "name": "vite",
+            "symbol": "VIT",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xc23ffebeba3c6b201217881fcf79f9c010cc9a4f",
+            "name": "Signal",
+            "symbol": "SIG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xc5369df967e3509801ec91bbeb74b5bd566bc896",
+            "name": "Rust",
+            "symbol": "RS",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xd54cb432aec2573078068e6f5f2abbbca862bc58",
+            "name": "WomenWhoCode",
+            "symbol": "WWC",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xd7a3e29147d9681b703cdfa2382b1ec90e416b81",
+            "name": "11ty",
+            "symbol": "ELE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xeafd3506dd97a24aac16aeb11c89c14e7f922f04",
+            "name": "Umbra",
+            "symbol": "UMB",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xed590e8cbba37cfd321322210225ed4c9da5efa4",
+            "name": "vite",
+            "symbol": "VIT",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xf934208335e86c70b922b8d1f50c8eb66a773a5c",
+            "name": "prettier",
+            "symbol": "PRE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xfbb1f93cda756d9f10a3dbfbcec395dd46dba491",
+            "name": "Prysm",
+            "symbol": "PRY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xfcdd2fceb81685e9ab4f546984dd9cee8c06e622",
+            "name": "prettier",
+            "symbol": "PRE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xfe9a5e0095324113b0a7808ccd511a33b6b395b9",
+            "name": "Lighthouse",
+            "symbol": "LIG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xff558031a83215d0c7cc08eb8351edc3579343cf",
+            "name": "Deno",
+            "symbol": "DEN",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x02b5394d3427fd1f6d7dabf5031bad143b397c81",
+            "name": "steadfast",
+            "symbol": "STF",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x0463c7d5f9e3d176e4e82092f3ad594af1e185ec",
+            "name": "Islandview",
+            "symbol": "IVD",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x054a6f226eb6fe4dab4945579a7ea314ef29f5f5",
+            "name": "Riyo",
+            "symbol": "RIYO",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x14308514785b216904a41ab817282d25425cce39",
+            "name": "tinyhttp",
+            "symbol": "TH",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x1ebbd3eafcc5cff3b41053e746f51421c285d5df",
+            "name": "ArtiStake",
+            "symbol": "ARTS",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x286dbf93cb471eb3297237b1c66662f6be32b42c",
+            "name": "datamodel-code-generator",
+            "symbol": "KDCG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x28ea94a44d5a85caa13016d4eefdfe5a669a2994",
+            "name": "Dev Bunch",
+            "symbol": "DBUNCH",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x2bad6115e56015ae16c107d18d1d552129ed8b03",
+            "name": "COVID19-DATA",
+            "symbol": "C19D",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x2c9f5c3ebc01a45d34198229e60ee186ecdc5c5e",
+            "name": "napi.rs",
+            "symbol": "napi",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x2de96256231e5540a5a292fb0ebf65651eff0daf",
+            "name": "cobogo token",
+            "symbol": "CBG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x3059bd281418179a83cae3771b0dd6c47807ea3a",
+            "name": "CryptoVizor",
+            "symbol": "CVZ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x375bb44e669a14a09a982b98b74c677a8400edbf",
+            "name": "crowi",
+            "symbol": "crowi-token",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x3c6e5fa78282413116ff6d8b8fc1f76cb52a6b71",
+            "name": "Mailchain",
+            "symbol": "dMAIL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x4792e204cefc32c25fcd34388473b255d8c9c506",
+            "name": "Empty",
+            "symbol": "EMPTY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x4abbb472e200b73ee4d63d81736a4517bafe3449",
+            "name": "JPY Coin",
+            "symbol": "JPYC",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x4e451b79800cccc76a194a908cd06487918f4701",
+            "name": "Framework7",
+            "symbol": "FW7",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x528010540517dd3b708d8ff7036f841fea0135b2",
+            "name": "HiDe",
+            "symbol": "HIDE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x53d97ce77de1e30379ab3d90a767b99903e3d622",
+            "name": "vite-plugin-elm",
+            "symbol": "DEV",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x5754027bf16beef077b1266699e45754b9a47b4d",
+            "name": "openapi-backend",
+            "symbol": "OASB",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x5de3ef7970405f173e9b3c0c54372e9e359951df",
+            "name": "Browserosaurus",
+            "symbol": "brws",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x5ff1768527971813915529b0266a9e64200a26f8",
+            "name": "flutter_updateable_plugin",
+            "symbol": "fup",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x61677f5b530fa922c08bb7fc9e4a0b011578d055",
+            "name": "femtovg",
+            "symbol": "femtovg",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x6244d94e4b5b9392f3eda895e37ddf61923bb0cf",
+            "name": "vite-plugin-markdown",
+            "symbol": "DEV",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x65d6c1a5a31d49591d3be41d1cc9a91f2b6209f4",
+            "name": "Swiper",
+            "symbol": "SWP",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x7223e9e492e341f357df950e300f5a0771c2edf0",
+            "name": "Cryptomator Privacy Coin",
+            "symbol": "PRVCY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x7cde542e8436c3a2ae32354421e13a91266444be",
+            "name": "Auto Sci-Hub",
+            "symbol": "ASH",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x80a7bad00b82beb63fe5680a39bc7ac609ff086f",
+            "name": "ImageGlass Token",
+            "symbol": "IGC",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x87e30b7640ac3949e1594c8231304435edb9b560",
+            "name": "koxudaxi",
+            "symbol": "koxudaxi",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x8dc86777aefe019c994a70b5c6471e03d2e86568",
+            "name": "Simple quality UI",
+            "symbol": "SQUI",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x9110f25b4b3f73b7e886c8c3aaacf6e4cb49564c",
+            "name": "WordPress Code Snippets",
+            "symbol": "wps",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x92f4c210aec2d7e34aa226f4319aa879d253f206",
+            "name": "NativeScript-Vue",
+            "symbol": "NSV",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x95938cd132ba64e4702d791e8750efc0a510043e",
+            "name": "Mandane",
+            "symbol": "MANY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x973f66aaa87961cead2dc93c15a1d81e7edc4a32",
+            "name": "mu-zomia",
+            "symbol": "MZA",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x97f93bfe273b5ff897a6ef044ee1a1d4535df163",
+            "name": "koxudaxi/fastapi-code-generator",
+            "symbol": "KFCG",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x9f535e3c63cd1447164bed4933d1efefbbc97a3f",
+            "name": "vyperfun/vyper.fun",
+            "symbol": "VFUN",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0x9f84201ef565eb4179d5b3fbbfedfdd450ea037e",
+            "name": "vasa-develop/cross-asset-swap",
+            "symbol": "CAS",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xac5f6a59f4b40ecf0815eb53af49a83834b47005",
+            "name": "graphql-let",
+            "symbol": "graphql-let",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xacffb8a304380f0dbea41a8df84a7cf70b1d008d",
+            "name": "SeahorseToken",
+            "symbol": "SHRS",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xb64a4f033e9c6c1b400ba082140e9eab0ee1446f",
+            "name": "Richienb/capper",
+            "symbol": "CPR",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xb6927e8c58ff0daf9446f52fc499b2f78eb811a3",
+            "name": "balance-crypto",
+            "symbol": "BALANCE-CRYPTO",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xb8050a622135ae78682222be5cdc6c8773fbfe30",
+            "name": "Gaptures",
+            "symbol": "GAPT",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xb96cbb406f8eb2712ed8a9055e285e28fd076548",
+            "name": "Redux Toolkit",
+            "symbol": "RTK",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xc0af56c6bbb094fb4fa37c7e48a6fc6b84fb5b64",
+            "name": "Conata",
+            "symbol": "CONATA",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xc34be54e48bfb1e97ba13b829bafbfe6ce6e6193",
+            "name": "Beechat Network Repo Staking Token",
+            "symbol": "BN-st",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xc6286fc480ba4d15981664a3350abf12b0b7feda",
+            "name": "Git3",
+            "symbol": "Git3",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xc65ca20b670aa65fdd05debafbf02d3387f316cd",
+            "name": "awesome-alternatives-in-rust",
+            "symbol": "Awesome-alternatives",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xceaddcd2d86a348163eb2385e8fa76776d0dbf6e",
+            "name": "gql",
+            "symbol": "GQL",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xd60d8208e50cf69947ebddef187d390e38407ee3",
+            "name": "rpi-examples",
+            "symbol": "PIE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xd670448759c12a08ed3f3d1cb1e14fbff3f88d14",
+            "name": "ScytheSwap",
+            "symbol": "SCY",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xd6973869bdfe10ee6c5973259789a866f6f829c0",
+            "name": "NFT-CryptoArtJapan",
+            "symbol": "NCAJ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xdfb462bfd71128b96db742a2621aeb801c4fd611",
+            "name": "netboot.xyz",
+            "symbol": "NBZ",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xe014a52354136b678ff5030397224179bd0f9657",
+            "name": "LunarVim",
+            "symbol": "LVM",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xe25f166ae42a8c08b5b18fc2ce1eee2db4911604",
+            "name": "ethane",
+            "symbol": "ETHANE",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xe42bbd2be15737597e12641f331c466724e742a0",
+            "name": "koxudaxi/local-data-api",
+            "symbol": "KLDA",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xeb51f55a80e62d6de7598d0963614a0c85692584",
+            "name": "xR-Tech-Nagoya/Hubs-Public-Scene",
+            "symbol": "HPS",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xeb731811d7f3b10e773f548b028d4bf46239029a",
+            "name": "VimLspProduct",
+            "symbol": "VimLspProduct",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xf50ab8025dc77443874765612f29a92a8e8a0058",
+            "name": "NMT",
+            "symbol": "NMT",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xfa38fc50e055cbe88bd569eddcce057999b2bc9c",
+            "name": "DEV-CSTK",
+            "symbol": "DEV-CSTK",
+            "decimals": 18,
+            "chainId": 1
+        },
+        {
+            "address": "0xfb4dc85e5b92278f1131a63b6f1407a05e1df341",
+            "name": "Blackprint",
+            "symbol": "BPT",
+            "decimals": 18,
+            "chainId": 1
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
