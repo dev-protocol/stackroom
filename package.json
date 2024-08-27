@@ -3,12 +3,8 @@
 	"private": true,
 	"description": "A stackroom for documents and assets",
 	"scripts": {
-		"lint": "prettier --write '**/*.{json,md,yml}'"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "npm run lint"
-		}
+		"lint": "prettier --write '**/*.{json,md,yml}'",
+		"prepare": "husky"
 	},
 	"devDependencies": {
 		"husky": "9.1.5",
