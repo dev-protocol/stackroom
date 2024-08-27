@@ -1,5 +1,8 @@
 {
-    "redirects": [
-      { "source": "discord.devprotocol.xyz", "destination": "https://discord.gg/4mHexQKVAg" }
-    ]
-  }
+	"redirects": [
+		{
+			"source": "discord.devprotocol.xyz",
+			"destination": "https://discord.gg/4mHexQKVAg"
+		}
+	]
+}
