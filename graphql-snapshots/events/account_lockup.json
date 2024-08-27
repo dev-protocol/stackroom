@@ -1,0 +1,3870 @@
+{
+	"data": {
+		"account_lockup": [
+			{
+				"block_number": 9409473,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 2000000000000000000,
+				"property_address": "0xC87bF5A50997D732352F9Ca30648d98eBF3B22b3"
+			},
+			{
+				"block_number": 9409476,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 9409497,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 9409505,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0x50e310dcd668A49d610d0f8a0a7D42B27e3be010"
+			},
+			{
+				"block_number": 9409508,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0x33D36A508e8624409c79C089Dd363fE8cAdea32a"
+			},
+			{
+				"block_number": 9409512,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 9409522,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0x9dcAa594E1e81c9BD005bC6FdEB9E1fc085C7cf6"
+			},
+			{
+				"block_number": 9409526,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 1000000000000000000,
+				"property_address": "0xFcA9b9b3fdC7C809FcF9f6620Bb39D19abC8BA8f"
+			},
+			{
+				"block_number": 9413505,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0xeCD6983809De43C9a264668477217B2Ca234B2AB",
+				"value": 1000000000000000000,
+				"property_address": "0xB26F9b4bA5F64A5d787eCb16894EF6A720FcEb23"
+			},
+			{
+				"block_number": 9415429,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x1cB707C360a175F3c94cB68FdA8b0c2fc82222e4",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 9415781,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 10372579,
+				"locked_up_event_id": "log_6dac2e60",
+				"account_address": "0x1cB707C360a175F3c94cB68FdA8b0c2fc82222e4",
+				"value": 33000000000000000000,
+				"property_address": "0x28201885e9E1F9AA069600bdbD3e0a90BaB82595"
+			},
+			{
+				"block_number": 9422895,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0x9b071149c201c78776FC2d0d729bF4F456a1dfbD",
+				"value": 1000000000000000000,
+				"property_address": "0xC87bF5A50997D732352F9Ca30648d98eBF3B22b3"
+			},
+			{
+				"block_number": 9423595,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0xF6eFBc6d4689Dc0d90128b040D5C2Cce49492BdA",
+				"value": 1000000000000000000,
+				"property_address": "0xFd7619849f2EeF9041adcC6dCC6D8A2d47fEF271"
+			},
+			{
+				"block_number": 9426147,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0xDaEca4F52C4bE0d6e7DE675C2FEB4C3006A96C84",
+				"value": 1000000000000000000,
+				"property_address": "0xB26F9b4bA5F64A5d787eCb16894EF6A720FcEb23"
+			},
+			{
+				"block_number": 10372718,
+				"locked_up_event_id": "log_f276569f",
+				"account_address": "0x1cB707C360a175F3c94cB68FdA8b0c2fc82222e4",
+				"value": 100000000000000000000,
+				"property_address": "0x05BC991269a9730232a65ea7C471ABcC7D86A5B3"
+			},
+			{
+				"block_number": 9428538,
+				"locked_up_event_id": "dummy-lockup-id",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 5000000000000000000,
+				"property_address": "0xFcA9b9b3fdC7C809FcF9f6620Bb39D19abC8BA8f"
+			},
+			{
+				"block_number": 9433752,
+				"locked_up_event_id": "log_07f865b2",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 2000000000000000000,
+				"property_address": "0xC4e4382062B7a2595994faE32cC0d572215abEC5"
+			},
+			{
+				"block_number": 9434327,
+				"locked_up_event_id": "log_5e7c5c55",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 2000000000000000000,
+				"property_address": "0xFd7619849f2EeF9041adcC6dCC6D8A2d47fEF271"
+			},
+			{
+				"block_number": 9435582,
+				"locked_up_event_id": "log_9db73eeb",
+				"account_address": "0x656b243D73911edAee87779125fEF90c2b1d781f",
+				"value": 101000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 9435638,
+				"locked_up_event_id": "log_49c3f9d3",
+				"account_address": "0x656b243D73911edAee87779125fEF90c2b1d781f",
+				"value": 101000000000000000000,
+				"property_address": "0xFd7619849f2EeF9041adcC6dCC6D8A2d47fEF271"
+			},
+			{
+				"block_number": 9446420,
+				"locked_up_event_id": "log_78e8ec1a",
+				"account_address": "0x188c0867a4E66a4dA97E3368ad534Ae9dc17ca71",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 11717864,
+				"locked_up_event_id": "log_c826dcf1",
+				"account_address": "0x06265bb046a3708DdD85FbF01ADE00f9627A2EA8",
+				"value": 200000000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 12706485,
+				"locked_up_event_id": "log_0edbbd7d",
+				"account_address": "0x262A038D0bc05B4112c7D58BBfd407810bcfE2aB",
+				"value": 20000000000000000000,
+				"property_address": "0x65D6c1a5A31d49591d3BE41D1cc9a91F2b6209f4"
+			},
+			{
+				"block_number": 11533454,
+				"locked_up_event_id": "log_fa0bca56",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 5000000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 9452357,
+				"locked_up_event_id": "log_c00ad83f",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 9000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 11272359,
+				"locked_up_event_id": "log_5c044752",
+				"account_address": "0xb0D24B899a24eDa250Bc98EB7148782E58C5Fb33",
+				"value": 747000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12473531,
+				"locked_up_event_id": "log_fe137096",
+				"account_address": "0x7f28DC563770c06772693A92F285904D05FD81E7",
+				"value": 51900763370000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 9452429,
+				"locked_up_event_id": "log_2afb36bb",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 9000000000000000000,
+				"property_address": "0x50e310dcd668A49d610d0f8a0a7D42B27e3be010"
+			},
+			{
+				"block_number": 9452442,
+				"locked_up_event_id": "log_031108bb",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 9000000000000000000,
+				"property_address": "0x33D36A508e8624409c79C089Dd363fE8cAdea32a"
+			},
+			{
+				"block_number": 9452446,
+				"locked_up_event_id": "log_7bc9dc08",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 9000000000000000000,
+				"property_address": "0xFcA9b9b3fdC7C809FcF9f6620Bb39D19abC8BA8f"
+			},
+			{
+				"block_number": 11868212,
+				"locked_up_event_id": "log_ba52524d",
+				"account_address": "0xF5FcD3a63abc766Ac5ADa296B4A4E860dBF9ebb0",
+				"value": 8188007347231052,
+				"property_address": "0x5C7db549a025586DEc6667b3c0217e2e97f19033"
+			},
+			{
+				"block_number": 12083756,
+				"locked_up_event_id": "log_24b098a0",
+				"account_address": "0xCAbd7395635Fb2Df2bB6a6f6768709D70D6A9AC9",
+				"value": 4000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 9466035,
+				"locked_up_event_id": "log_72552b5d",
+				"account_address": "0xDc2E06034e01BeDb7a2BDB0cfadc00B8106c7A24",
+				"value": 1000000000000000000,
+				"property_address": "0xC4e4382062B7a2595994faE32cC0d572215abEC5"
+			},
+			{
+				"block_number": 9467848,
+				"locked_up_event_id": "log_fa95a9c5",
+				"account_address": "0x012fCFF42a7002E47FaeFF5A384d08673C622872",
+				"value": 1000000000000000000,
+				"property_address": "0x9dcAa594E1e81c9BD005bC6FdEB9E1fc085C7cf6"
+			},
+			{
+				"block_number": 9467893,
+				"locked_up_event_id": "log_41fedb7e",
+				"account_address": "0x012fCFF42a7002E47FaeFF5A384d08673C622872",
+				"value": 1000000000000000000,
+				"property_address": "0xC4e4382062B7a2595994faE32cC0d572215abEC5"
+			},
+			{
+				"block_number": 9487081,
+				"locked_up_event_id": "log_07093877",
+				"account_address": "0x51b3a21c89292E3b1e4BE7659be7C435035a972f",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 9504564,
+				"locked_up_event_id": "log_750eb88f",
+				"account_address": "0x263FC4d9Eb6da1ED296ea6d189b41e546a188D8A",
+				"value": 1000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 9691528,
+				"locked_up_event_id": "log_53e06c35",
+				"account_address": "0xB2E36AB0CC1EE3b699412703fEeE27dd8c8b3d25",
+				"value": 1000000000000000000,
+				"property_address": "0x55f31498d9de5e738e52CCbC393196FA9e16e62D"
+			},
+			{
+				"block_number": 11255800,
+				"locked_up_event_id": "log_12f5c471",
+				"account_address": "0x0139C13F6f44E8E3Fc768229a6ae3c5EE690C49a",
+				"value": 57000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 9691686,
+				"locked_up_event_id": "log_3c0ec076",
+				"account_address": "0x26EF0CEd8B0626436e09aF2a758b46282b77cd98",
+				"value": 2000000000000000000,
+				"property_address": "0xB568630d96ca52Ea08dF5d3b1f8A65881F2dB320"
+			},
+			{
+				"block_number": 9693053,
+				"locked_up_event_id": "log_3c8425da",
+				"account_address": "0xaD81441D534e45A18a347211ACF9cC0B1Ac078C8",
+				"value": 3200000000000000000,
+				"property_address": "0x5D251F81E3810FA894b3EBee772CD76a52fD89fb"
+			},
+			{
+				"block_number": 9694176,
+				"locked_up_event_id": "log_fc9b838c",
+				"account_address": "0xE454e8480d17bafD260481F14cf85F95856f032B",
+				"value": 15000000000000000000,
+				"property_address": "0x5D251F81E3810FA894b3EBee772CD76a52fD89fb"
+			},
+			{
+				"block_number": 9694190,
+				"locked_up_event_id": "log_2798a4eb",
+				"account_address": "0xE454e8480d17bafD260481F14cf85F95856f032B",
+				"value": 15000000000000000000,
+				"property_address": "0xB568630d96ca52Ea08dF5d3b1f8A65881F2dB320"
+			},
+			{
+				"block_number": 9696001,
+				"locked_up_event_id": "log_0296206f",
+				"account_address": "0x81042f7F99a86D3981308E72feb36BD791C31920",
+				"value": 10000000000000000000,
+				"property_address": "0x55f31498d9de5e738e52CCbC393196FA9e16e62D"
+			},
+			{
+				"block_number": 9696001,
+				"locked_up_event_id": "log_b73e8603",
+				"account_address": "0x81042f7F99a86D3981308E72feb36BD791C31920",
+				"value": 10000000000000000000,
+				"property_address": "0x5D251F81E3810FA894b3EBee772CD76a52fD89fb"
+			},
+			{
+				"block_number": 11687320,
+				"locked_up_event_id": "log_b742345e",
+				"account_address": "0x36FC99c654236E5699b5f64EEE991A0D54a098Fe",
+				"value": 4e21,
+				"property_address": "0x7dC42FA19C5CfDfACdcf7B7bEeE9b6CfC77A6F1b"
+			},
+			{
+				"block_number": 10625882,
+				"locked_up_event_id": "log_4698b041",
+				"account_address": "0x656b243D73911edAee87779125fEF90c2b1d781f",
+				"value": 1e21,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 11962130,
+				"locked_up_event_id": "log_7b933628",
+				"account_address": "0xA717AA5E8858cA5836Fef082E6B2965ba0dB615d",
+				"value": 4.843859363051511e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11975445,
+				"locked_up_event_id": "log_e1a8bbc0",
+				"account_address": "0x778549Eb292AC98A96a05E122967f22eFA003707",
+				"value": 684952000000000000000,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 11996560,
+				"locked_up_event_id": "log_d90d8a79",
+				"account_address": "0x9d515189b8e7157111822352A4737d37913e7062",
+				"value": 25549656530260505000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12047270,
+				"locked_up_event_id": "log_3c1e59cd",
+				"account_address": "0xFcad330aB3173C77929056eF4D3eEF1f1d676cae",
+				"value": 50000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 10297316,
+				"locked_up_event_id": "log_19ff41fb",
+				"account_address": "0x9165fEb1A710D1b82F32000e8590298f5aF5d313",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 12648987,
+				"locked_up_event_id": "log_1f9d11e9",
+				"account_address": "0x8aCAF5c20BE8C43e984C070180F6bD1be3E55d01",
+				"value": 326958004364676000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12735045,
+				"locked_up_event_id": "log_cddb8927",
+				"account_address": "0xF5FcD3a63abc766Ac5ADa296B4A4E860dBF9ebb0",
+				"value": 913337133417998600,
+				"property_address": "0x04c8c053921a3c5b97F89b4e745525E6a4412149"
+			},
+			{
+				"block_number": 9712922,
+				"locked_up_event_id": "log_b22c9265",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0xC4e4382062B7a2595994faE32cC0d572215abEC5"
+			},
+			{
+				"block_number": 9712934,
+				"locked_up_event_id": "log_0ce7f04c",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0xC87bF5A50997D732352F9Ca30648d98eBF3B22b3"
+			},
+			{
+				"block_number": 9712999,
+				"locked_up_event_id": "log_f6e62895",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 9713008,
+				"locked_up_event_id": "log_df6f6ca5",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0xFd7619849f2EeF9041adcC6dCC6D8A2d47fEF271"
+			},
+			{
+				"block_number": 9713013,
+				"locked_up_event_id": "log_97d9f872",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 9713017,
+				"locked_up_event_id": "log_c6b2ff48",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0xB26F9b4bA5F64A5d787eCb16894EF6A720FcEb23"
+			},
+			{
+				"block_number": 9713021,
+				"locked_up_event_id": "log_f8d9bd1e",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0x50e310dcd668A49d610d0f8a0a7D42B27e3be010"
+			},
+			{
+				"block_number": 9713111,
+				"locked_up_event_id": "log_8752ac54",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0x33D36A508e8624409c79C089Dd363fE8cAdea32a"
+			},
+			{
+				"block_number": 9713125,
+				"locked_up_event_id": "log_71c18dd6",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0xFcA9b9b3fdC7C809FcF9f6620Bb39D19abC8BA8f"
+			},
+			{
+				"block_number": 9713130,
+				"locked_up_event_id": "log_81bf02cb",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 10000000000000000000,
+				"property_address": "0xB568630d96ca52Ea08dF5d3b1f8A65881F2dB320"
+			},
+			{
+				"block_number": 9713130,
+				"locked_up_event_id": "log_a8fad784",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 10000000000000000000,
+				"property_address": "0x5D251F81E3810FA894b3EBee772CD76a52fD89fb"
+			},
+			{
+				"block_number": 9713133,
+				"locked_up_event_id": "log_d09e105e",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 9000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 9713137,
+				"locked_up_event_id": "log_b5b49596",
+				"account_address": "0x69Cc2C86aeB26f52F6645a2DFdec1051DD5584C0",
+				"value": 10000000000000000000,
+				"property_address": "0x9dcAa594E1e81c9BD005bC6FdEB9E1fc085C7cf6"
+			},
+			{
+				"block_number": 9718334,
+				"locked_up_event_id": "log_c141a7e9",
+				"account_address": "0x26EF0CEd8B0626436e09aF2a758b46282b77cd98",
+				"value": 55000000000000000000,
+				"property_address": "0x55f31498d9de5e738e52CCbC393196FA9e16e62D"
+			},
+			{
+				"block_number": 9718334,
+				"locked_up_event_id": "log_614af73e",
+				"account_address": "0x26EF0CEd8B0626436e09aF2a758b46282b77cd98",
+				"value": 55000000000000000000,
+				"property_address": "0x5D251F81E3810FA894b3EBee772CD76a52fD89fb"
+			},
+			{
+				"block_number": 9759150,
+				"locked_up_event_id": "log_3236ad30",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 1000000000000000000,
+				"property_address": "0x55f31498d9de5e738e52CCbC393196FA9e16e62D"
+			},
+			{
+				"block_number": 9759161,
+				"locked_up_event_id": "log_a55286aa",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 1000000000000000000,
+				"property_address": "0x5D251F81E3810FA894b3EBee772CD76a52fD89fb"
+			},
+			{
+				"block_number": 9759169,
+				"locked_up_event_id": "log_ead519b3",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 1000000000000000000,
+				"property_address": "0xB568630d96ca52Ea08dF5d3b1f8A65881F2dB320"
+			},
+			{
+				"block_number": 9765745,
+				"locked_up_event_id": "log_4fb2ce32",
+				"account_address": "0x12E97835D80C8Be269815E2c046c308F7dD58f75",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 9778168,
+				"locked_up_event_id": "log_bc8864df",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 100000000000000000000,
+				"property_address": "0xB26F9b4bA5F64A5d787eCb16894EF6A720FcEb23"
+			},
+			{
+				"block_number": 9805326,
+				"locked_up_event_id": "log_bd94bc9d",
+				"account_address": "0xA956f8b14BeC08e97350ef829D60EDcff72Dbc95",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 9808591,
+				"locked_up_event_id": "log_d969888a",
+				"account_address": "0xE454e8480d17bafD260481F14cf85F95856f032B",
+				"value": 25000000000000000000,
+				"property_address": "0x55f31498d9de5e738e52CCbC393196FA9e16e62D"
+			},
+			{
+				"block_number": 9809350,
+				"locked_up_event_id": "log_a798f770",
+				"account_address": "0xf54aa59CD95D85C3bf77DDe4c28d0B23f53cd1b6",
+				"value": 1000000000000000000,
+				"property_address": "0xC87bF5A50997D732352F9Ca30648d98eBF3B22b3"
+			},
+			{
+				"block_number": 11259565,
+				"locked_up_event_id": "log_7d262fbd",
+				"account_address": "0x1375fb930cCd9E4B763A8cAdA3724b07b7D964fF",
+				"value": 45668000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 9888387,
+				"locked_up_event_id": "log_f4b00541",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 100000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 10773640,
+				"locked_up_event_id": "log_bccd563f",
+				"account_address": "0x1E4d8b768bA1D18fC9710b613fe435c00A44bc01",
+				"value": 33000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 9936581,
+				"locked_up_event_id": "log_bc3b0d98",
+				"account_address": "0xc977E0d130dcE62827FA13D0fa90f4901383882a",
+				"value": 1000000000000000000,
+				"property_address": "0xFcA9b9b3fdC7C809FcF9f6620Bb39D19abC8BA8f"
+			},
+			{
+				"block_number": 11278842,
+				"locked_up_event_id": "log_c7c3f9d0",
+				"account_address": "0xBdEa090dAf9e3E46a0a1120E704fF393b478f598",
+				"value": 300000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 9960826,
+				"locked_up_event_id": "log_1c3e9b52",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 30000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 9964576,
+				"locked_up_event_id": "log_240a25f2",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 5000000000000000000,
+				"property_address": "0xFd2B21ED19eCb47773d4BCb3aD82cCCe8c3eCf53"
+			},
+			{
+				"block_number": 9965592,
+				"locked_up_event_id": "log_44707eb7",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 40000000000000000000,
+				"property_address": "0x54b3280C1Dc821d9089EA26d3bC1Caa1930dDe80"
+			},
+			{
+				"block_number": 9971795,
+				"locked_up_event_id": "log_bfd1e967",
+				"account_address": "0x7E0F360fD696f3aAc8DBDbb4EbF23D3718aeF4ca",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 12716372,
+				"locked_up_event_id": "log_70ae93d4",
+				"account_address": "0xF0E1dca77b2a40113F3091B7Ef6c30feB6405B3F",
+				"value": 1.6227e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12477813,
+				"locked_up_event_id": "log_f7f93aff",
+				"account_address": "0xa65a6Ce405D0E85E90b1110C4cc796aFFEEF4417",
+				"value": 10000000000000000000,
+				"property_address": "0x014f98F05c0BeD44B4Cf0532a93312a2135afaB8"
+			},
+			{
+				"block_number": 12877625,
+				"locked_up_event_id": "log_b482ec78",
+				"account_address": "0x1F0eFA42A1A3fE659f3326Fe00fC46dB46CBF4a0",
+				"value": 1.1e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12486549,
+				"locked_up_event_id": "log_8cdde16e",
+				"account_address": "0x1bAd1783ab45Cf35fF439Ac9258748229F295845",
+				"value": 1e21,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 11614074,
+				"locked_up_event_id": "log_ae99c63b",
+				"account_address": "0x1cB707C360a175F3c94cB68FdA8b0c2fc82222e4",
+				"value": 136710000000000000000,
+				"property_address": "0x4bB2be7e4fD1C79787aE85DF6162f4fc078738A1"
+			},
+			{
+				"block_number": 9996489,
+				"locked_up_event_id": "log_cc3adf5e",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 30000000000000000000,
+				"property_address": "0xFd2B21ED19eCb47773d4BCb3aD82cCCe8c3eCf53"
+			},
+			{
+				"block_number": 9996631,
+				"locked_up_event_id": "log_53c61b7f",
+				"account_address": "0xF6eFBc6d4689Dc0d90128b040D5C2Cce49492BdA",
+				"value": 6000000000000000000,
+				"property_address": "0xFcA9b9b3fdC7C809FcF9f6620Bb39D19abC8BA8f"
+			},
+			{
+				"block_number": 10048697,
+				"locked_up_event_id": "log_2f7f4e41",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 20000000000000000000,
+				"property_address": "0x628b135d1f2d9e33F7183A122632Cc5BDB0c1Dae"
+			},
+			{
+				"block_number": 11461988,
+				"locked_up_event_id": "log_33464fe0",
+				"account_address": "0xe07e76714497eB8c3BB237eE5002C710E392b5A9",
+				"value": 32114434316815444,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10054215,
+				"locked_up_event_id": "log_9257508e",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 1e21,
+				"property_address": "0xe02c39b1B6a55838884710CEF209dDE6BA32c169"
+			},
+			{
+				"block_number": 11205276,
+				"locked_up_event_id": "log_847b4f65",
+				"account_address": "0x939696E968998CF5b74d64CE4aBCC822D8b1B77f",
+				"value": 15612000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 10088569,
+				"locked_up_event_id": "log_44656cc6",
+				"account_address": "0x99759dA105411481496166b8c2cc9937dC30b696",
+				"value": 1000000000000000000,
+				"property_address": "0xa495e3fd8269f5FAC7b6c8F31bFffAc716cCC535"
+			},
+			{
+				"block_number": 10088569,
+				"locked_up_event_id": "log_ca9d45e2",
+				"account_address": "0xB9Ab83C0c837EfB6cBBde23D0e531a7825e2E034",
+				"value": 1000000000000000000,
+				"property_address": "0xa495e3fd8269f5FAC7b6c8F31bFffAc716cCC535"
+			},
+			{
+				"block_number": 10088569,
+				"locked_up_event_id": "log_a13e80a0",
+				"account_address": "0x396b53d12d79ed53E08695E36D33A89C96397245",
+				"value": 1000000000000000000,
+				"property_address": "0xa495e3fd8269f5FAC7b6c8F31bFffAc716cCC535"
+			},
+			{
+				"block_number": 10088588,
+				"locked_up_event_id": "log_5761f9a3",
+				"account_address": "0x38aB3087eA8C59C74A6bFB25a8B34134c248E8f7",
+				"value": 1000000000000000000,
+				"property_address": "0xa495e3fd8269f5FAC7b6c8F31bFffAc716cCC535"
+			},
+			{
+				"block_number": 10093104,
+				"locked_up_event_id": "log_f26b0a11",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 50000000000000000000,
+				"property_address": "0x7e7D142767B8C670efC55442D50C68Eed0FEbc24"
+			},
+			{
+				"block_number": 13048456,
+				"locked_up_event_id": "log_32af9cd8",
+				"account_address": "0xD446Cb9bA9c63163d147DbE244789C33A2673604",
+				"value": 10164009483743777000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11937128,
+				"locked_up_event_id": "log_1bc6936e",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 1.328083e21,
+				"property_address": "0x375bB44E669A14a09a982b98B74c677a8400EDbf"
+			},
+			{
+				"block_number": 11962335,
+				"locked_up_event_id": "log_62dc39f1",
+				"account_address": "0xef9cc959BF47d61b24213915D0469ADe628DDFE7",
+				"value": 130000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11976543,
+				"locked_up_event_id": "log_8cc13080",
+				"account_address": "0x1219659423e814d2614597D8D80F5F0bA0bD6c15",
+				"value": 80000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11691953,
+				"locked_up_event_id": "log_bd083325",
+				"account_address": "0xc19889b7eDD8dCC72318402254C3779EC0bF5433",
+				"value": 74407142671931,
+				"property_address": "0x6FC83305afb1083CE1Db511d252B47A38CFCE1f7"
+			},
+			{
+				"block_number": 10099878,
+				"locked_up_event_id": "log_1d22720a",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 1e21,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 12475579,
+				"locked_up_event_id": "log_153166fe",
+				"account_address": "0x8cDE5Aec2Ea9189C7c90509e377D4925F19D91E2",
+				"value": 109899000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 10118972,
+				"locked_up_event_id": "log_74f57a4b",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 200000000000000000000,
+				"property_address": "0xCbab4c606Dc2eEFE5Aa716d4892D272040FCA053"
+			},
+			{
+				"block_number": 12716657,
+				"locked_up_event_id": "log_04f1a3f1",
+				"account_address": "0x7BFEe91193d9Df2Ac0bFe90191D40F23c773C060",
+				"value": 1.4964033723103164e21,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10119156,
+				"locked_up_event_id": "log_4ad01c9d",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 400000000000000000000,
+				"property_address": "0xdC27FbdcC62E22b3Ae36FE1583C96B20467eB4EE"
+			},
+			{
+				"block_number": 13167886,
+				"locked_up_event_id": "log_7e2e5eb6",
+				"account_address": "0x56c7a4bFDbDC57C0545413D12a30125FA651Db25",
+				"value": 846000000000000000000,
+				"property_address": "0x0463C7d5F9E3D176e4e82092F3AD594AF1e185ec"
+			},
+			{
+				"block_number": 10100943,
+				"locked_up_event_id": "log_dc7f2340",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 2e21,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10734364,
+				"locked_up_event_id": "log_eb44ec00",
+				"account_address": "0x74abeF7FF5FD02d9441DbdF891271c362f0a495F",
+				"value": 300000000000000000000,
+				"property_address": "0x05BC991269a9730232a65ea7C471ABcC7D86A5B3"
+			},
+			{
+				"block_number": 10176307,
+				"locked_up_event_id": "log_b6c6af2c",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 460000000000000000000,
+				"property_address": "0x438da8158E9b52C147Bdf67882C0bC5F6faD542D"
+			},
+			{
+				"block_number": 12303169,
+				"locked_up_event_id": "log_a69b47ec",
+				"account_address": "0x5cD04435c391aA13A64fCB21FB905d2a525CE7B4",
+				"value": 5980000000000000,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 10596670,
+				"locked_up_event_id": "log_c1ab9ae2",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xa7A9dd3863502A20B5C09CE53437DE1d5e58a0f4"
+			},
+			{
+				"block_number": 10734430,
+				"locked_up_event_id": "log_0ab6c5a9",
+				"account_address": "0x6F07F000E0Bb7426D55ba28EF22e536a753eeBE7",
+				"value": 1000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10596670,
+				"locked_up_event_id": "log_cec1b55f",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0x89dbb0c4e0C7c2f204152A820F349b4b2482c213"
+			},
+			{
+				"block_number": 10596680,
+				"locked_up_event_id": "log_90160516",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xF7E0B08c0A524EfC7945f4790862Ccd87718c5EF"
+			},
+			{
+				"block_number": 10596680,
+				"locked_up_event_id": "log_d822d04e",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0x198d827e0f9C0324de31bf37B51032A2FD2A8297"
+			},
+			{
+				"block_number": 11389937,
+				"locked_up_event_id": "log_a01bca94",
+				"account_address": "0x50D55e6Ed4146425C52c26521FF14be90bd4d1A5",
+				"value": 105000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10596680,
+				"locked_up_event_id": "log_f68380c3",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xd4704785a80dD381d8b16AE5e9dcB313F7857649"
+			},
+			{
+				"block_number": 12143440,
+				"locked_up_event_id": "log_fd4e0404",
+				"account_address": "0xB9f7445Fc3431Ed2B196c62E11B776bE7255Cec0",
+				"value": 26700000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 10405567,
+				"locked_up_event_id": "log_06eb2189",
+				"account_address": "0x7869FF8bB18997cDc35B68d8C3a7F031d12422Bf",
+				"value": 100000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10405635,
+				"locked_up_event_id": "log_e44a471f",
+				"account_address": "0x7869FF8bB18997cDc35B68d8C3a7F031d12422Bf",
+				"value": 100000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 13789530,
+				"locked_up_event_id": "log_529d08d3",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 431000000000000000000,
+				"property_address": "0x0463C7d5F9E3D176e4e82092F3AD594AF1e185ec"
+			},
+			{
+				"block_number": 11977773,
+				"locked_up_event_id": "log_beb57969",
+				"account_address": "0x3C52A19eC6F37Dc1A139e13e0Ee075cF1158e4B2",
+				"value": 50000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12148815,
+				"locked_up_event_id": "log_73776e1f",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 3e21,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 11502939,
+				"locked_up_event_id": "log_615aceb5",
+				"account_address": "0x006f7DA5fE8B1a45D364a677499333099CDb4b75",
+				"value": 130000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 11347048,
+				"locked_up_event_id": "log_c5a2460a",
+				"account_address": "0x3703bF2FC31d017347C555dD6d180d09085E7356",
+				"value": 23460000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12137920,
+				"locked_up_event_id": "log_35edd454",
+				"account_address": "0x58AeF1BAc94dc209a768e4DCDd5958C082fEc5eb",
+				"value": 300000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 11402077,
+				"locked_up_event_id": "log_a0840631",
+				"account_address": "0xe0Af15110aEA61Fd65A0229e1B7EA47cCc24BCE1",
+				"value": 700000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12166345,
+				"locked_up_event_id": "log_0553a0f3",
+				"account_address": "0xA1ecB46C0bE223DFf23EfdA8bd553d17b938Af47",
+				"value": 4.074e21,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10709595,
+				"locked_up_event_id": "log_f437fc9c",
+				"account_address": "0x08b850EC1555014825A0Ef81F077e1FE19a6242b",
+				"value": 200359100000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12676940,
+				"locked_up_event_id": "log_7855f9b4",
+				"account_address": "0x927201C7174dD29DBbE88E5182df258E4A0cA09D",
+				"value": 453000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 13887428,
+				"locked_up_event_id": "log_b916c273",
+				"account_address": "0xD263479662b04a40DadA6cB04C32D80F11a0Ba20",
+				"value": 100000000000000000000,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 10189868,
+				"locked_up_event_id": "log_8c742f15",
+				"account_address": "0x84e356a5AF981E8E91513396CB75078F0f638bb6",
+				"value": 250000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 11446919,
+				"locked_up_event_id": "log_fa993c03",
+				"account_address": "0xb6E8B596d027Da3C33D9c15eaF0522Ef303eD508",
+				"value": 44148955419471240000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12909938,
+				"locked_up_event_id": "log_f4991f34",
+				"account_address": "0x9c4e845a5f4DBE05639A4a3795dEa526a41f42c9",
+				"value": 511590711010190560000,
+				"property_address": "0x760da4229b3A1BA9Db7416fC0Fe5d560133c59dc"
+			},
+			{
+				"block_number": 11452403,
+				"locked_up_event_id": "log_3e4b6a59",
+				"account_address": "0xFc830CD343857a3BefC4dc53828846cE97CA13A9",
+				"value": 324422524568205850000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12305297,
+				"locked_up_event_id": "log_a3d86457",
+				"account_address": "0x44d341108303CDfaD2eb3966a4A8812E7072E816",
+				"value": 877404692029440300,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 10966699,
+				"locked_up_event_id": "log_345ec8ce",
+				"account_address": "0x19eC6675F0f70288Fced880e96Ae805475B9cC7C",
+				"value": 900000000000000000000,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 11895952,
+				"locked_up_event_id": "log_7fce5793",
+				"account_address": "0xF0Bc763e0A6AF4784a36fa102220FF60eC651f9e",
+				"value": 4964833278653083,
+				"property_address": "0xCbab4c606Dc2eEFE5Aa716d4892D272040FCA053"
+			},
+			{
+				"block_number": 10190919,
+				"locked_up_event_id": "log_bb18352e",
+				"account_address": "0x4fC2Fb80e3AB5C2b0D433EC6d06369C9a4ceAC8D",
+				"value": 5000000000000000000,
+				"property_address": "0x750d786b0Fe6b13A58d741B65CCD22fc18a6d8aa"
+			},
+			{
+				"block_number": 13267332,
+				"locked_up_event_id": "log_794eafcf",
+				"account_address": "0x1b3c6e3dD05E51a06BEcd25fbD7Bbfa01A23875a",
+				"value": 100000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 13052147,
+				"locked_up_event_id": "log_b1524f31",
+				"account_address": "0x68e5B205b2e9a54d33EfD97b1CcF45F916a1b06f",
+				"value": 1.442805409371639e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 11938635,
+				"locked_up_event_id": "log_f62d52b8",
+				"account_address": "0x4908Bf2c81a71647e6a579acbE1Bf1aa2778c874",
+				"value": 50000000000000000000,
+				"property_address": "0x04c8c053921a3c5b97F89b4e745525E6a4412149"
+			},
+			{
+				"block_number": 12100313,
+				"locked_up_event_id": "log_0e578bee",
+				"account_address": "0xfBc772aFc305870756Dc7701024abE4421353332",
+				"value": 2.289966e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12200064,
+				"locked_up_event_id": "log_a83d8a4d",
+				"account_address": "0x620DA44F856Ef17b824EDB360Fa26c77F0D520ED",
+				"value": 500000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 10989009,
+				"locked_up_event_id": "log_58f0c423",
+				"account_address": "0xfA7C324CB1d3b0128fEAa246c93417829Bc23809",
+				"value": 1000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 11962439,
+				"locked_up_event_id": "log_2eebe2e0",
+				"account_address": "0x84E9445f43995b0C6a4D4C1d40bb123571c2Eb06",
+				"value": 590000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12351219,
+				"locked_up_event_id": "log_a63e8150",
+				"account_address": "0x4F4feD7C8e92F6CFF66C8f5bF7e91f1AFecE57bd",
+				"value": 284081742565632670000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14094383,
+				"locked_up_event_id": "log_ea079e29",
+				"account_address": "0x6Fc8880A5F6B6fA300823d9962E57b843A3DEa67",
+				"value": 7e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 14151422,
+				"locked_up_event_id": "log_6bae6a8a",
+				"account_address": "0x8cA884dd4A827aD84020569b12EAa17131A11872",
+				"value": 500000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 11545463,
+				"locked_up_event_id": "log_98a6315d",
+				"account_address": "0x41647a74673C90F4a13884bee4f8A89034FB85E8",
+				"value": 500000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 11962437,
+				"locked_up_event_id": "log_d87b0d79",
+				"account_address": "0xaa29F503CdE18Ab560c32708195C8ec43F26748B",
+				"value": 9000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12109505,
+				"locked_up_event_id": "log_e643d9e0",
+				"account_address": "0x461e76A4fE9f27605d4097A646837c32F1ccc31c",
+				"value": 1.574e21,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 14108472,
+				"locked_up_event_id": "log_fa378be1",
+				"account_address": "0xcE1B442Df471Bc75e5B2c7EF43a9b0B45A587734",
+				"value": 2.699e21,
+				"property_address": "0x80a7Bad00B82BeB63fE5680a39bC7Ac609fF086f"
+			},
+			{
+				"block_number": 12258741,
+				"locked_up_event_id": "log_df4b08ca",
+				"account_address": "0x26c89c572c960867EF9BF4e53CBe2DE0952AF0f3",
+				"value": 7000000000000000000,
+				"property_address": "0xC34BE54E48bfB1e97ba13B829BaFBFe6CE6E6193"
+			},
+			{
+				"block_number": 12340333,
+				"locked_up_event_id": "log_20fc9ee9",
+				"account_address": "0x0FC95402e101B56baabfb06D94Ca7D5131094120",
+				"value": 240000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12358101,
+				"locked_up_event_id": "log_b23ebff5",
+				"account_address": "0xdFc144E5b6a2445303Fe74Bd06e26cB3e2Bb83b5",
+				"value": 10000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11349517,
+				"locked_up_event_id": "log_5f888d34",
+				"account_address": "0x5701068cA0bA0338a5B64e8F59d5ae661e9eCfc0",
+				"value": 10000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10741917,
+				"locked_up_event_id": "log_c6e2d195",
+				"account_address": "0x3003f8c8a69F2382FF7378289d13a26EE682D222",
+				"value": 24262000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10741953,
+				"locked_up_event_id": "log_3e3741da",
+				"account_address": "0xB81d28395fD00245be175a408C0BEeE9A829c17F",
+				"value": 35000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10476341,
+				"locked_up_event_id": "log_d9b381f8",
+				"account_address": "0xF6eFBc6d4689Dc0d90128b040D5C2Cce49492BdA",
+				"value": 100000000000000000000,
+				"property_address": "0x04c8c053921a3c5b97F89b4e745525E6a4412149"
+			},
+			{
+				"block_number": 11405765,
+				"locked_up_event_id": "log_ce6e4d5b",
+				"account_address": "0x0caC9C3D7196f5BbD76FaDcd771fB69b772c0F9d",
+				"value": 9036236150569352,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10752172,
+				"locked_up_event_id": "log_e81e51fc",
+				"account_address": "0x7152cAADd18b4B16C5030dAdc3Ed79Fd54Eb1D30",
+				"value": 101000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10853672,
+				"locked_up_event_id": "log_57bc090f",
+				"account_address": "0x5f7e23F51C6Ab47CB4bbe5773D04c70b2Af16250",
+				"value": 60000000000000000000,
+				"property_address": "0x7e7D142767B8C670efC55442D50C68Eed0FEbc24"
+			},
+			{
+				"block_number": 10692114,
+				"locked_up_event_id": "log_f4891ea9",
+				"account_address": "0xCeF7Aa520B21C1597Db6979A6aAdd61be8BBd43C",
+				"value": 2.003e21,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 10480550,
+				"locked_up_event_id": "log_3865ea94",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 1000000000000000000,
+				"property_address": "0x198F78dCD5f3699e9FD5FFd16887c1103c81f8D8"
+			},
+			{
+				"block_number": 10489208,
+				"locked_up_event_id": "log_d5131fd0",
+				"account_address": "0x1cB707C360a175F3c94cB68FdA8b0c2fc82222e4",
+				"value": 200000000000000000000,
+				"property_address": "0x5Fe0591751fe2296fFeB5703E9bCe0E52F9a5b80"
+			},
+			{
+				"block_number": 10489231,
+				"locked_up_event_id": "log_43ab5ec8",
+				"account_address": "0x1cB707C360a175F3c94cB68FdA8b0c2fc82222e4",
+				"value": 200000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 12475887,
+				"locked_up_event_id": "log_af9cd85e",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 2.4e21,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 11945691,
+				"locked_up_event_id": "log_42c0a3e9",
+				"account_address": "0xc4b9EE91F8FF6fEc6002087b9C6645403Cf1c90d",
+				"value": 4000000000000000,
+				"property_address": "0x760da4229b3A1BA9Db7416fC0Fe5d560133c59dc"
+			},
+			{
+				"block_number": 12148835,
+				"locked_up_event_id": "log_864d7751",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 1e21,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 11466529,
+				"locked_up_event_id": "log_31896d6b",
+				"account_address": "0xa883E88aAFF30d5d1c426509CB8460303951ab8e",
+				"value": 374900000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12757320,
+				"locked_up_event_id": "log_7467ed52",
+				"account_address": "0x61a576EeF1405140571E2D7d42d2A387aB8e1872",
+				"value": 351004309357376770000,
+				"property_address": "0x65D6c1a5A31d49591d3BE41D1cc9a91F2b6209f4"
+			},
+			{
+				"block_number": 10794808,
+				"locked_up_event_id": "log_3e6bd66d",
+				"account_address": "0x7869FF8bB18997cDc35B68d8C3a7F031d12422Bf",
+				"value": 500000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11255029,
+				"locked_up_event_id": "log_a6f23663",
+				"account_address": "0x31EFE0Abf3840f78cfFf414b44A2846fe13e4688",
+				"value": 1.23447e21,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 13466429,
+				"locked_up_event_id": "log_db70a222",
+				"account_address": "0x7531772cCDB674204aBb238E20f0FB8869B596Fa",
+				"value": 500000000000000000000,
+				"property_address": "0x7223E9E492e341F357dF950E300F5a0771C2EDF0"
+			},
+			{
+				"block_number": 10519018,
+				"locked_up_event_id": "log_16ab037a",
+				"account_address": "0xF0Bc763e0A6AF4784a36fa102220FF60eC651f9e",
+				"value": 1.621e21,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 10192481,
+				"locked_up_event_id": "log_288d533f",
+				"account_address": "0xED3Ca6dF7794DdDc3fdb4328994496eF3DF95C4d",
+				"value": 2000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12403925,
+				"locked_up_event_id": "log_a3d33713",
+				"account_address": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+				"value": 1.1328879836498503e21,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 10315964,
+				"locked_up_event_id": "log_744e655e",
+				"account_address": "0x6Fa18ef1d54a967A8451465b1bE689E54d5Cfb30",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 13178702,
+				"locked_up_event_id": "log_e85b59e3",
+				"account_address": "0x2540dfb5524b6EFfcf6Ebf41494B3c43C3F18dDb",
+				"value": 400000000000000000000,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 14151674,
+				"locked_up_event_id": "log_785f43bb",
+				"account_address": "0x71c57eD3421D9f11eFCBfc1f80126938DA9a973a",
+				"value": 385336000000000000000,
+				"property_address": "0x054A6F226eb6fe4dAB4945579A7ea314Ef29f5f5"
+			},
+			{
+				"block_number": 11737584,
+				"locked_up_event_id": "log_479158c2",
+				"account_address": "0x20DDF83C105Daf6009545C5Be60F1F08f02B5941",
+				"value": 8900000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12494663,
+				"locked_up_event_id": "log_b6110fef",
+				"account_address": "0x34F5cd7Ed678D8D5436cE9Ba44968d8A0ea25590",
+				"value": 10000000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 13916205,
+				"locked_up_event_id": "log_96285414",
+				"account_address": "0xb3aDbb7f101a6e71D0DF0beB001761AF15bb8c33",
+				"value": 1.361e21,
+				"property_address": "0x1ebbD3EAFCc5CfF3B41053e746F51421c285d5dF"
+			},
+			{
+				"block_number": 11857091,
+				"locked_up_event_id": "log_878f98df",
+				"account_address": "0x9759c78812015D078ea73f695CC326F00Ad002B2",
+				"value": 904416029896579600000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11545775,
+				"locked_up_event_id": "log_e92b4c78",
+				"account_address": "0xcdb90B4E62Ff02Ab9396F422d90431283C1F99d2",
+				"value": 800000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12055680,
+				"locked_up_event_id": "log_8394a70a",
+				"account_address": "0x6d0BBe84eBa47434a0004fc65797B87eF1C913b7",
+				"value": 718000000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 10193468,
+				"locked_up_event_id": "log_fe6c39e2",
+				"account_address": "0x2584DCE69250f921c130B4a923B8254ECb9167ff",
+				"value": 105000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10193483,
+				"locked_up_event_id": "log_c2ecd2b4",
+				"account_address": "0x2584DCE69250f921c130B4a923B8254ECb9167ff",
+				"value": 173000000000000000000,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 11432230,
+				"locked_up_event_id": "log_b9a427ee",
+				"account_address": "0xABEe5597EB23AfDE43f0b6654CD60aB8329556c7",
+				"value": 100000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12868826,
+				"locked_up_event_id": "log_c209ef4f",
+				"account_address": "0x108fAC0bbbF6Cb71cb7a7FCf2Ee48cC52FCe3278",
+				"value": 800919000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11046306,
+				"locked_up_event_id": "log_f7c208f8",
+				"account_address": "0x16030796BA82679369DE2f90182dfC60931B1a61",
+				"value": 292000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11635671,
+				"locked_up_event_id": "log_407769e7",
+				"account_address": "0x03f35Bf158c39dE0D3a9E59C60CD5Dfdd89012d6",
+				"value": 1800000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12087722,
+				"locked_up_event_id": "log_08e115ab",
+				"account_address": "0xcaEe375d18c6E5c5CabE35E30B4D13EB1e77D3fd",
+				"value": 175762000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11620821,
+				"locked_up_event_id": "log_5c1cb37c",
+				"account_address": "0xf83FC1f2a97E5f014188775E228dE9044cE98Af6",
+				"value": 227190889916498150000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10342886,
+				"locked_up_event_id": "log_cd47a4d1",
+				"account_address": "0x104c739966162f904A72F69bbf4B66AC05BD23DB",
+				"value": 1000000000000000000,
+				"property_address": "0xC87bF5A50997D732352F9Ca30648d98eBF3B22b3"
+			},
+			{
+				"block_number": 10343140,
+				"locked_up_event_id": "log_1284842c",
+				"account_address": "0x74abeF7FF5FD02d9441DbdF891271c362f0a495F",
+				"value": 1000000000000000000,
+				"property_address": "0x33D36A508e8624409c79C089Dd363fE8cAdea32a"
+			},
+			{
+				"block_number": 10343279,
+				"locked_up_event_id": "log_491f86bf",
+				"account_address": "0x104c739966162f904A72F69bbf4B66AC05BD23DB",
+				"value": 5000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 11781748,
+				"locked_up_event_id": "log_a53e08ab",
+				"account_address": "0x38a97cB34FCE4FAc87D1F7f8639e3341978613b6",
+				"value": 5330599949588923000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 12498775,
+				"locked_up_event_id": "log_34dda935",
+				"account_address": "0x90008C20d30622Fed14ebb28305e732A2A4Ae30E",
+				"value": 300000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11793902,
+				"locked_up_event_id": "log_fd5473c4",
+				"account_address": "0x0890f995c5f72D5c2eA477950d6d23c8A648910a",
+				"value": 84000000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 11433130,
+				"locked_up_event_id": "log_1d32b7cc",
+				"account_address": "0x20A73256f10E739C550E31B914Ba61FCE99594cb",
+				"value": 9000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12502941,
+				"locked_up_event_id": "log_4cf67e3e",
+				"account_address": "0x6C6541Cc3Ec6Bfc2d7B0CA48CcB0225cbbea9B59",
+				"value": 5.3897176858654e21,
+				"property_address": "0xE25F166Ae42a8c08b5B18fc2Ce1EEE2Db4911604"
+			},
+			{
+				"block_number": 12888333,
+				"locked_up_event_id": "log_651e066a",
+				"account_address": "0x6DFbc2eAD08C2f3b9674a7D0795660d59C04Ac92",
+				"value": 101000000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12101193,
+				"locked_up_event_id": "log_6c6d6dbb",
+				"account_address": "0x4cee043B0b094eb255e59b47d428737ce458F94B",
+				"value": 400024945805021740000,
+				"property_address": "0x3b99E52456738B971d3B9b1FA4E2Bb55E15AE60b"
+			},
+			{
+				"block_number": 12933816,
+				"locked_up_event_id": "log_491867f9",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 71000000000000000000,
+				"property_address": "0xcEAddcD2D86A348163EB2385e8fA76776d0DBf6e"
+			},
+			{
+				"block_number": 13062391,
+				"locked_up_event_id": "log_f71c42d9",
+				"account_address": "0xfB3494DDd325B83bF5f8507d23Bf399447932e80",
+				"value": 1e21,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 11502797,
+				"locked_up_event_id": "log_4cec4653",
+				"account_address": "0xdEE0a802f08390e7Ba32837a14D73722d35E2411",
+				"value": 6295546000000000,
+				"property_address": "0xF6899a1536E6474f0a6Aa2b36714e9632FB97D40"
+			},
+			{
+				"block_number": 13277791,
+				"locked_up_event_id": "log_c823f487",
+				"account_address": "0xc5f66A66b80f422F838d61fe77AAD23B58FfD857",
+				"value": 80667000000000000000,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 11952466,
+				"locked_up_event_id": "log_4802acc6",
+				"account_address": "0x1143D16a0276653a3be32B298CEFF28067d5f85D",
+				"value": 1964701092407710,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11519228,
+				"locked_up_event_id": "log_b61f46df",
+				"account_address": "0x03f35Bf158c39dE0D3a9E59C60CD5Dfdd89012d6",
+				"value": 24000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 10857325,
+				"locked_up_event_id": "log_2210d07b",
+				"account_address": "0x0FBC729984C3b9A6081A514Ca5107945C543A1b9",
+				"value": 52000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10742623,
+				"locked_up_event_id": "log_2db6c034",
+				"account_address": "0xDa559566A608B85b145c3C2A2029C2726A2e6b6d",
+				"value": 136200000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 11437504,
+				"locked_up_event_id": "log_700e3f43",
+				"account_address": "0x6c15FF9e26EC883B2C4ceFD55A253Ed54E352e8F",
+				"value": 6197061825502124,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11698493,
+				"locked_up_event_id": "log_03be6a7b",
+				"account_address": "0xC018A73b61cD131d4C509356F4B35a265a754f1A",
+				"value": 409077234481375000,
+				"property_address": "0x6FC83305afb1083CE1Db511d252B47A38CFCE1f7"
+			},
+			{
+				"block_number": 13406089,
+				"locked_up_event_id": "log_db9faefd",
+				"account_address": "0xc9De293741dd2DAc2dE93f73BD55563016B2BCB2",
+				"value": 1.554292e21,
+				"property_address": "0x2De96256231e5540A5A292Fb0EBF65651Eff0dAf"
+			},
+			{
+				"block_number": 12145233,
+				"locked_up_event_id": "log_8be2071d",
+				"account_address": "0x1316Ad01518012878A886A7F1E0483AD1b4ff8C0",
+				"value": 10000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 13620196,
+				"locked_up_event_id": "log_c4e5dd33",
+				"account_address": "0x701B1a9A6e6be1AD84c9546d4A43d6Cc691A6dEC",
+				"value": 3e21,
+				"property_address": "0x9cB9C8F0bbD78623b7B48FfFCC54bc9B83e45C71"
+			},
+			{
+				"block_number": 10627388,
+				"locked_up_event_id": "log_9766e2f2",
+				"account_address": "0x656b243D73911edAee87779125fEF90c2b1d781f",
+				"value": 1e21,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 11090388,
+				"locked_up_event_id": "log_d15fd868",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 5.555e21,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12445101,
+				"locked_up_event_id": "log_bcd80cb1",
+				"account_address": "0x52a61eE4B93d451aE1Fa0a250f099B81Bf0a120a",
+				"value": 3298076127691322,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12202274,
+				"locked_up_event_id": "log_1aa3e1e3",
+				"account_address": "0xF5ADE58B10dFE64005eF10bb9073734e82f5EDaa",
+				"value": 3896811044575252,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 10356142,
+				"locked_up_event_id": "log_91d04450",
+				"account_address": "0x74C8c6Ce9766C5f77e3E1aD5c75FE7Da07199fC8",
+				"value": 530000000000000000000,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 10543985,
+				"locked_up_event_id": "log_81c6edbe",
+				"account_address": "0x8efb2dCD81F5592dF7AFa1B1a906fC7B4179a47E",
+				"value": 5000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 11486179,
+				"locked_up_event_id": "log_f78e04cd",
+				"account_address": "0xE4FD4de76C36B403776815Ff80078e6E9642923F",
+				"value": 7000000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 12148837,
+				"locked_up_event_id": "log_a039ebfd",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 2e21,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11949792,
+				"locked_up_event_id": "log_46965198",
+				"account_address": "0x134Df2d703af9C7F91EcA7188458eCf5914A7dC3",
+				"value": 10000000000000000000,
+				"property_address": "0xbfEa2faF22DC850febD0146F2aadC0145b8902F6"
+			},
+			{
+				"block_number": 11781155,
+				"locked_up_event_id": "log_351a16a6",
+				"account_address": "0x2E949057Ce561BAA9d494895235ACCe310a73FDB",
+				"value": 2016530409191758000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11949823,
+				"locked_up_event_id": "log_03684130",
+				"account_address": "0x134Df2d703af9C7F91EcA7188458eCf5914A7dC3",
+				"value": 10000000000000000000,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 10360034,
+				"locked_up_event_id": "log_98bac9b6",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 1e21,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 12305562,
+				"locked_up_event_id": "log_ad2d1526",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 2e21,
+				"property_address": "0x14308514785B216904a41aB817282d25425Cce39"
+			},
+			{
+				"block_number": 10360413,
+				"locked_up_event_id": "log_a13fd59c",
+				"account_address": "0x7d41cE3E13082935b27b2CD110F8371638DcA555",
+				"value": 100000000000000000000,
+				"property_address": "0x3ED82f5363BBcaB42F8A95Eb0dC8c4c846Dc19C6"
+			},
+			{
+				"block_number": 11349706,
+				"locked_up_event_id": "log_ebf57a1b",
+				"account_address": "0xfA7C324CB1d3b0128fEAa246c93417829Bc23809",
+				"value": 656000000000000000,
+				"property_address": "0x3b99E52456738B971d3B9b1FA4E2Bb55E15AE60b"
+			},
+			{
+				"block_number": 13924745,
+				"locked_up_event_id": "log_4ebe84c5",
+				"account_address": "0x198A123599e65140bfefA096648D968A67c3B807",
+				"value": 9.75346127659362e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14158698,
+				"locked_up_event_id": "log_9c49f162",
+				"account_address": "0x3645DFF2E8fF9Fb6075632eCF3a0097C16943F41",
+				"value": 4.791e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 10362866,
+				"locked_up_event_id": "log_7a5b3ecf",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 1e21,
+				"property_address": "0x04c8c053921a3c5b97F89b4e745525E6a4412149"
+			},
+			{
+				"block_number": 11963924,
+				"locked_up_event_id": "log_7c7c04aa",
+				"account_address": "0x87Dfef3b445667292AAc89078B51F0F75795805F",
+				"value": 780028182545153400000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11803698,
+				"locked_up_event_id": "log_95cba7fe",
+				"account_address": "0x36FC99c654236E5699b5f64EEE991A0D54a098Fe",
+				"value": 1e21,
+				"property_address": "0xB64A4F033e9C6c1b400ba082140E9EAB0EE1446F"
+			},
+			{
+				"block_number": 12148837,
+				"locked_up_event_id": "log_6bfa895e",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 2e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 10813585,
+				"locked_up_event_id": "log_f664f3c0",
+				"account_address": "0x5bA44CFC6672522E2C560830bf87024604DbCdF8",
+				"value": 100000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 12015186,
+				"locked_up_event_id": "log_bb69301e",
+				"account_address": "0x6EeD2dd777faFA3Dd4b8F16d305e549D4d24A344",
+				"value": 329000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12729090,
+				"locked_up_event_id": "log_04bede3d",
+				"account_address": "0x27Bb786922dCde744c821b6094556d7405150aC9",
+				"value": 49000000000000000000,
+				"property_address": "0x65D6c1a5A31d49591d3BE41D1cc9a91F2b6209f4"
+			},
+			{
+				"block_number": 11654198,
+				"locked_up_event_id": "log_f455b95f",
+				"account_address": "0xf1A683A4a569A4a33Dd375c6676689255328B0bB",
+				"value": 25000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12166391,
+				"locked_up_event_id": "log_4b9993d2",
+				"account_address": "0x05c09bBf110750C64BFBeA847147B423743c4AC6",
+				"value": 3.021e21,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 13043977,
+				"locked_up_event_id": "log_bef4d159",
+				"account_address": "0xFd05831e8164dE31da2D8dF7a77941Cf7bEBE1f3",
+				"value": 1.0167417819819717e21,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12307342,
+				"locked_up_event_id": "log_d01de7d9",
+				"account_address": "0x7D3b52A6ae25545f825bc230f7011Fc97e821911",
+				"value": 1.6924126410200454e21,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 10369473,
+				"locked_up_event_id": "log_04d0f91e",
+				"account_address": "0xd7cf3280275759435C7494d504FcC6d5bA65fB0c",
+				"value": 231372000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12778021,
+				"locked_up_event_id": "log_69bb685e",
+				"account_address": "0xA226bd6e3Df92c0b2085C401511fc7b891E61988",
+				"value": 112363496581149230000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12101297,
+				"locked_up_event_id": "log_287976b3",
+				"account_address": "0xAcE68672d7112f63905e088e237F328eC1a17486",
+				"value": 4000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12943591,
+				"locked_up_event_id": "log_ecea2c2a",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 28000000000000000000,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 12359074,
+				"locked_up_event_id": "log_39d3bda7",
+				"account_address": "0x18D79f84DD184f25f241fFDC0e111d2B5c62E5e9",
+				"value": 247759000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12993502,
+				"locked_up_event_id": "log_4852c5d2",
+				"account_address": "0x701b953fE879e1393f767B3cfd41E56Ff8c875D5",
+				"value": 35313740435938116000,
+				"property_address": "0xd6973869bdfe10eE6C5973259789A866F6f829c0"
+			},
+			{
+				"block_number": 13062725,
+				"locked_up_event_id": "log_3e4fe2a5",
+				"account_address": "0x096CF1784BDBbbbffa85DB923F874D6FCE4CA2D7",
+				"value": 80000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12135508,
+				"locked_up_event_id": "log_4644b738",
+				"account_address": "0x27a78894E86d121F738Ca8e62AefDAEeEddEc923",
+				"value": 10000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11741270,
+				"locked_up_event_id": "log_750158bc",
+				"account_address": "0x02E5EdA0e9F63464A8CFFA6cA5fC6D0E4B245EA2",
+				"value": 241590490494185920,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 13292434,
+				"locked_up_event_id": "log_a412df60",
+				"account_address": "0x73b9f6a6e52aCE2797F0a6E52AAc530Ed1F2a2Af",
+				"value": 45002582036526875000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 13070152,
+				"locked_up_event_id": "log_8c02e088",
+				"account_address": "0x40706b5a9Ee83B6aCb4D6EeEBBE81d530893ecF4",
+				"value": 1.6273333417958e22,
+				"property_address": "0x95938Cd132BA64e4702d791E8750Efc0a510043E"
+			},
+			{
+				"block_number": 10853526,
+				"locked_up_event_id": "log_449aafc5",
+				"account_address": "0xFB5C0e6400A95e4191D46196073D30a289abd15c",
+				"value": 800000000000000000000,
+				"property_address": "0x760da4229b3A1BA9Db7416fC0Fe5d560133c59dc"
+			},
+			{
+				"block_number": 12351275,
+				"locked_up_event_id": "log_5ee774f2",
+				"account_address": "0xedafC915B6bF13B6f03a46D372f266322492cc4b",
+				"value": 84000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12446003,
+				"locked_up_event_id": "log_56dc8e68",
+				"account_address": "0xB6e34D527A5eD5e62EFB2c62232084e829bE645b",
+				"value": 170432858172144300000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12454642,
+				"locked_up_event_id": "log_31a7a084",
+				"account_address": "0x146DB7e5d6D25B1302292e0603E3154904163e07",
+				"value": 110000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12461755,
+				"locked_up_event_id": "log_39ca4d9d",
+				"account_address": "0x87Dfef3b445667292AAc89078B51F0F75795805F",
+				"value": 117000000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12294892,
+				"locked_up_event_id": "log_3fa219db",
+				"account_address": "0x825fc2e8df937D2f654fb5Ea08cda95BaB71C21f",
+				"value": 184667340781492630000,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 10558061,
+				"locked_up_event_id": "log_54c3f88b",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 440000000000000000000,
+				"property_address": "0x4FDD6ECF1C8b75804c330895Ef74822Af313CD95"
+			},
+			{
+				"block_number": 10558153,
+				"locked_up_event_id": "log_5d9efc8e",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 1000000000000000000,
+				"property_address": "0x7e7D142767B8C670efC55442D50C68Eed0FEbc24"
+			},
+			{
+				"block_number": 12145798,
+				"locked_up_event_id": "log_18005363",
+				"account_address": "0xD8f813Ec49bc39Bb52BA0817eC9BD6a8E653B760",
+				"value": 381535700193360400000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12148869,
+				"locked_up_event_id": "log_a8b48eb6",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 2e21,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 10718469,
+				"locked_up_event_id": "log_3e3da5bf",
+				"account_address": "0xC8dDA504356195ba5344E5a9826Ce07DfEaA97b6",
+				"value": 7000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 11167982,
+				"locked_up_event_id": "log_7b98b0f5",
+				"account_address": "0x3B2cba3423199f73924AD609fa8EeC504E1FaC1f",
+				"value": 100000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11965715,
+				"locked_up_event_id": "log_197dd397",
+				"account_address": "0x0efdDCf523FFe33a6f6Afa146563b3e3aE070932",
+				"value": 51601562466724900000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11486475,
+				"locked_up_event_id": "log_9383aea8",
+				"account_address": "0x7869FF8bB18997cDc35B68d8C3a7F031d12422Bf",
+				"value": 61000000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 10570114,
+				"locked_up_event_id": "log_95533c85",
+				"account_address": "0x4e0f9F9dBF0ebA154B6E6677FA52dF3Bd9e91D3e",
+				"value": 22705000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10975238,
+				"locked_up_event_id": "log_fe21c0dc",
+				"account_address": "0x650296AfC42CcdA052B7ee62dCe27E462e9Cd626",
+				"value": 960112000000000,
+				"property_address": "0xa20F0da119c81dacB14234C388969896295E186C"
+			},
+			{
+				"block_number": 12763413,
+				"locked_up_event_id": "log_e8d4ac0f",
+				"account_address": "0x76D50f01af23Dac459e059FA35A5Cf94A1FC2a7F",
+				"value": 500000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 10575199,
+				"locked_up_event_id": "log_3ebdac08",
+				"account_address": "0xf24E1dC15CbA1E2770eB89876dAf9D95092B3d79",
+				"value": 60000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12148870,
+				"locked_up_event_id": "log_f350629e",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 2e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 13927024,
+				"locked_up_event_id": "log_2a6f5eeb",
+				"account_address": "0xA717AA5E8858cA5836Fef082E6B2965ba0dB615d",
+				"value": 5.188674093163622e21,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 10576958,
+				"locked_up_event_id": "log_a4c09532",
+				"account_address": "0xBdEa090dAf9e3E46a0a1120E704fF393b478f598",
+				"value": 600000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12075351,
+				"locked_up_event_id": "log_9dfd8e9c",
+				"account_address": "0x9c019C618EAf926ea2874c74B21A5Ca58c3f5ee7",
+				"value": 332180000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12864773,
+				"locked_up_event_id": "log_23c64638",
+				"account_address": "0x0531BA8A547AaFbc4f9C56b4b5E8651C081EE90B",
+				"value": 998000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 11413915,
+				"locked_up_event_id": "log_f8360ad6",
+				"account_address": "0x502d6Ea42F9a5A22462C5A4CCaaEeB2C18AaD635",
+				"value": 114368824859809560000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 13078209,
+				"locked_up_event_id": "log_cca19f01",
+				"account_address": "0x50D82eB9FCBC0f5765e96DE994D5D81a1cD7ba26",
+				"value": 225000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12305594,
+				"locked_up_event_id": "log_00fa16f9",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 5.172e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11070231,
+				"locked_up_event_id": "log_989c221e",
+				"account_address": "0x382d11adfDFA25E57B68DcADA0F6CcF17BAA81ad",
+				"value": 3856000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11987511,
+				"locked_up_event_id": "log_07469d81",
+				"account_address": "0x54e19eEe4a2043Cf1CF26A4282Baa2e5EBEED0C6",
+				"value": 100000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11027707,
+				"locked_up_event_id": "log_01270d81",
+				"account_address": "0x5ea617FeD16185736C42D3f572c536905fC6ef28",
+				"value": 25000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12093827,
+				"locked_up_event_id": "log_677b7d4b",
+				"account_address": "0xC5EA42A5D301869f5767d51b7ce1151CFa50E9ED",
+				"value": 35777000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11256429,
+				"locked_up_event_id": "log_2a315a2c",
+				"account_address": "0xBB8632b2596D652F4432F16313cC606ae61C3629",
+				"value": 2000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10201537,
+				"locked_up_event_id": "log_25349f05",
+				"account_address": "0xB4bb1FA9656F7411561AFc7404eE07dC4e7bfeb5",
+				"value": 30000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 11545546,
+				"locked_up_event_id": "log_c177f2e7",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 1e22,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 11147172,
+				"locked_up_event_id": "log_74f23d56",
+				"account_address": "0x053c685Fb78581Eb36f05a70219ccC414B8899cd",
+				"value": 468423711292323140,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12102070,
+				"locked_up_event_id": "log_b10c6974",
+				"account_address": "0x0ED1C03d04c1fBb33a0f25eF6147aB5A73d811a7",
+				"value": 13468644019697156000,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 11898110,
+				"locked_up_event_id": "log_b5c31a16",
+				"account_address": "0x267c2D469820013f455d98EB2A5F4508D2E8DDd8",
+				"value": 419319805569949,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14151350,
+				"locked_up_event_id": "log_0ba99160",
+				"account_address": "0x4b7b87244d8241cde87A057f1A631Bd4120B08C2",
+				"value": 674630137353346200000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14158778,
+				"locked_up_event_id": "log_afda9063",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 8.068885e21,
+				"property_address": "0x2De96256231e5540A5A292Fb0EBF65651Eff0dAf"
+			},
+			{
+				"block_number": 12178189,
+				"locked_up_event_id": "log_25cfebbc",
+				"account_address": "0x219c12318AfF3D1319C63657d0f38AfA331cCcef",
+				"value": 1000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12145089,
+				"locked_up_event_id": "log_3ce768fd",
+				"account_address": "0x50F27CdB650879A41fb07038bF2B818845c20e17",
+				"value": 2396000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12231787,
+				"locked_up_event_id": "log_541597a3",
+				"account_address": "0x40706b5a9Ee83B6aCb4D6EeEBBE81d530893ecF4",
+				"value": 1.024e21,
+				"property_address": "0xE25F166Ae42a8c08b5B18fc2Ce1EEE2Db4911604"
+			},
+			{
+				"block_number": 12243887,
+				"locked_up_event_id": "log_98b60412",
+				"account_address": "0x8d8bd9d929Da3475Eb558A4AE6Eec536ef41Bfc4",
+				"value": 12478000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12312624,
+				"locked_up_event_id": "log_bcaf146f",
+				"account_address": "0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b",
+				"value": 305000000000000000000,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 12351439,
+				"locked_up_event_id": "log_e7a7a926",
+				"account_address": "0xF75Ed978170dFa5ee3d71d95979a34C91CD7042e",
+				"value": 20000000000000000000,
+				"property_address": "0x14308514785B216904a41aB817282d25425Cce39"
+			},
+			{
+				"block_number": 12359628,
+				"locked_up_event_id": "log_84f42492",
+				"account_address": "0xdFc144E5b6a2445303Fe74Bd06e26cB3e2Bb83b5",
+				"value": 406004041306635200000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12377803,
+				"locked_up_event_id": "log_d20e75fd",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 500000000000000000000,
+				"property_address": "0xE25F166Ae42a8c08b5B18fc2Ce1EEE2Db4911604"
+			},
+			{
+				"block_number": 12377817,
+				"locked_up_event_id": "log_d64dde77",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 634600000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 12381695,
+				"locked_up_event_id": "log_1e70be7e",
+				"account_address": "0x4b00ac97c0ccd31E099193f26934E7d6492aBF97",
+				"value": 66122130474797380000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12389648,
+				"locked_up_event_id": "log_bbb856f6",
+				"account_address": "0x797BC498EdEE4357a16a1054dB0323CbD04C84c3",
+				"value": 6000000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12445846,
+				"locked_up_event_id": "log_c9c06dcd",
+				"account_address": "0x006C054Ac2d614674c9E5905E2931af0f1fD61D6",
+				"value": 1.1423476074874254e22,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12461768,
+				"locked_up_event_id": "log_f1f33262",
+				"account_address": "0x87Dfef3b445667292AAc89078B51F0F75795805F",
+				"value": 117442000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12738342,
+				"locked_up_event_id": "log_cdb45692",
+				"account_address": "0x1128cDB6DF17E282cE448e7770d0f02CE1299e1a",
+				"value": 60874052358315420000,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 11873950,
+				"locked_up_event_id": "log_a21c1b88",
+				"account_address": "0x545d28246a59d0C3b9c74a44AD017fF7F85259EB",
+				"value": 1.0824e21,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 13210423,
+				"locked_up_event_id": "log_564dd413",
+				"account_address": "0x0FDc27d3654A199cAc0d30821b09567cBE0D6d96",
+				"value": 100000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12476834,
+				"locked_up_event_id": "log_a16a286a",
+				"account_address": "0xc57c35E53aEDf5257eed6F8791d5717846BFCEd2",
+				"value": 200000000000000000000,
+				"property_address": "0x014f98F05c0BeD44B4Cf0532a93312a2135afaB8"
+			},
+			{
+				"block_number": 11967591,
+				"locked_up_event_id": "log_cc1ffd0d",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 5000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12544989,
+				"locked_up_event_id": "log_e67c8bd4",
+				"account_address": "0x925053456b79e5180B3dbFa041CF1fB65Eb0a39F",
+				"value": 191000000000000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12143800,
+				"locked_up_event_id": "log_02f52377",
+				"account_address": "0x0A6CA057fF6ea5B5f9db057e595E14EeCd8f6d84",
+				"value": 8228236268100862,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12140345,
+				"locked_up_event_id": "log_8c57520f",
+				"account_address": "0x6f1d13763c581dbeF3842595a2aa5B7B9E7ae4aB",
+				"value": 733348832405166,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12430160,
+				"locked_up_event_id": "log_12598eee",
+				"account_address": "0x3AB21268edbFa002b41939EFD9B482eA2E8b33AD",
+				"value": 101554890785815430000,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 12360884,
+				"locked_up_event_id": "log_6168d1cb",
+				"account_address": "0xBAdBA6bB263FD1Af9c086b32b97315BE8b8A0CEe",
+				"value": 10000125462219676000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12495351,
+				"locked_up_event_id": "log_b25cee20",
+				"account_address": "0x5fFd31dccD9098aD711EB6D19fc20a640D7aD7eE",
+				"value": 100000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 10902671,
+				"locked_up_event_id": "log_f30176ea",
+				"account_address": "0x41ac2B8Aa521b681455F5a3cBD98a157a3bFDe59",
+				"value": 30000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11363217,
+				"locked_up_event_id": "log_a14ddb3b",
+				"account_address": "0x99536cdceb69C254aD0fC4e4A5c79c2690C5c8eb",
+				"value": 3000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10935930,
+				"locked_up_event_id": "log_9cb36f75",
+				"account_address": "0xfD85bB99d1fE53EAe4D1b85a32D07064c8073953",
+				"value": 200000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 10211896,
+				"locked_up_event_id": "log_524c91a6",
+				"account_address": "0x94Da175D52afe4e52B2CB3A4cb7C1773FC3976e4",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10211915,
+				"locked_up_event_id": "log_ef9f0b56",
+				"account_address": "0x94Da175D52afe4e52B2CB3A4cb7C1773FC3976e4",
+				"value": 1000000000000000000,
+				"property_address": "0x33D36A508e8624409c79C089Dd363fE8cAdea32a"
+			},
+			{
+				"block_number": 10212026,
+				"locked_up_event_id": "log_153f5331",
+				"account_address": "0x18436468c2a6A717667D68ddeD502772709d57c5",
+				"value": 1000000000000000000,
+				"property_address": "0xC4e4382062B7a2595994faE32cC0d572215abEC5"
+			},
+			{
+				"block_number": 10212065,
+				"locked_up_event_id": "log_59630b4f",
+				"account_address": "0x18436468c2a6A717667D68ddeD502772709d57c5",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10212151,
+				"locked_up_event_id": "log_04475f77",
+				"account_address": "0x18436468c2a6A717667D68ddeD502772709d57c5",
+				"value": 2000000000000000000,
+				"property_address": "0x50e310dcd668A49d610d0f8a0a7D42B27e3be010"
+			},
+			{
+				"block_number": 10212159,
+				"locked_up_event_id": "log_4beed8b5",
+				"account_address": "0x18436468c2a6A717667D68ddeD502772709d57c5",
+				"value": 1000000000000000000,
+				"property_address": "0x33D36A508e8624409c79C089Dd363fE8cAdea32a"
+			},
+			{
+				"block_number": 10212197,
+				"locked_up_event_id": "log_187e64ff",
+				"account_address": "0x18436468c2a6A717667D68ddeD502772709d57c5",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 13743568,
+				"locked_up_event_id": "log_ab4dfd24",
+				"account_address": "0x991fcA32f5411834029c5f4E7C13B052f7386E1F",
+				"value": 6.8e21,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 12078141,
+				"locked_up_event_id": "log_9e053124",
+				"account_address": "0x9Aa6E754a9BA094D142Dec052A86b360f1B0cdBe",
+				"value": 256410522061094620000,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 10213390,
+				"locked_up_event_id": "log_ea008fc6",
+				"account_address": "0x18Cc1af10E48cf405506ee15331BB3e4bF116e70",
+				"value": 73694000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 11483172,
+				"locked_up_event_id": "log_bc07eea4",
+				"account_address": "0x5ac50421A1097172Fb4bf2904Bc2c58C31AFB083",
+				"value": 25000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 13810288,
+				"locked_up_event_id": "log_53849f51",
+				"account_address": "0x4840AB7B82a84ca18003f3f0dAa6b64631E70297",
+				"value": 1.794e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12377941,
+				"locked_up_event_id": "log_8a72b09d",
+				"account_address": "0x4874e8166dBfF69e72f0441F0E86ae7236235c60",
+				"value": 30000000000000000000,
+				"property_address": "0x14308514785B216904a41aB817282d25425Cce39"
+			},
+			{
+				"block_number": 13016454,
+				"locked_up_event_id": "log_981cc8b4",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 24000000000000000000,
+				"property_address": "0xd6973869bdfe10eE6C5973259789A866F6f829c0"
+			},
+			{
+				"block_number": 12105008,
+				"locked_up_event_id": "log_c033ed28",
+				"account_address": "0xc61641C59f5c459Da94E330535A95df4d5fACeAe",
+				"value": 100000000000000000000,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 12503278,
+				"locked_up_event_id": "log_f6c58129",
+				"account_address": "0xA22e3f7A3f910Df3dD805De78E2a0E5c2D6D8A76",
+				"value": 3555000000000000000,
+				"property_address": "0x014f98F05c0BeD44B4Cf0532a93312a2135afaB8"
+			},
+			{
+				"block_number": 13103860,
+				"locked_up_event_id": "log_531e4995",
+				"account_address": "0x625da2e72868B47D84bd68D715aaAEaA2AB06477",
+				"value": 100000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14025302,
+				"locked_up_event_id": "log_78702c75",
+				"account_address": "0x350B75652059725c6E01F16198Da61BBeC33eD5f",
+				"value": 4.1695557045686934e22,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12576133,
+				"locked_up_event_id": "log_2e3f2cf2",
+				"account_address": "0x3Afe6a1e3a61BD7171AE6F67C761ffcc28e8327b",
+				"value": 105261536129044380000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12190648,
+				"locked_up_event_id": "log_31060571",
+				"account_address": "0x0a4ca2ee95fe34e7aD22735E7cFe3Fab648A4D2A",
+				"value": 456050000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11116757,
+				"locked_up_event_id": "log_1147a526",
+				"account_address": "0xCE825287B150b82e6628829a26D280cA0752b6A9",
+				"value": 148000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12211127,
+				"locked_up_event_id": "log_963c29fa",
+				"account_address": "0x5816621F67043b1fe0E3556c4d5E475dDD5f9519",
+				"value": 78000000000000000000,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 12211132,
+				"locked_up_event_id": "log_15223d74",
+				"account_address": "0x5816621F67043b1fe0E3556c4d5E475dDD5f9519",
+				"value": 79162000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12217602,
+				"locked_up_event_id": "log_7c2dd8c4",
+				"account_address": "0x1316Ad01518012878A886A7F1E0483AD1b4ff8C0",
+				"value": 3032677080932053000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12454129,
+				"locked_up_event_id": "log_06a17ef8",
+				"account_address": "0xF69a65c5dc4842f7ee336b87a3ab08f924751806",
+				"value": 7792494983413336,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12125990,
+				"locked_up_event_id": "log_1d2b03dd",
+				"account_address": "0x5b44912B3923741be0179cEa65555F0ac8A5a91F",
+				"value": 348000000000000000,
+				"property_address": "0xF6899a1536E6474f0a6Aa2b36714e9632FB97D40"
+			},
+			{
+				"block_number": 12243909,
+				"locked_up_event_id": "log_8a451af3",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 1.4e21,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 13295294,
+				"locked_up_event_id": "log_c69f7040",
+				"account_address": "0x49FE1F832eA70C207B6E555e160DC2df51C00107",
+				"value": 100000000000000000000,
+				"property_address": "0x4cb307CF044f408C8e71caaf36d8De1Ea5ebA0BC"
+			},
+			{
+				"block_number": 12307344,
+				"locked_up_event_id": "log_4b43b251",
+				"account_address": "0xEF3AD6e3fC948723eEf13662023183EeFBBe03aD",
+				"value": 3.009164912913233e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 13932286,
+				"locked_up_event_id": "log_7688e648",
+				"account_address": "0x6Fc8880A5F6B6fA300823d9962E57b843A3DEa67",
+				"value": 3.5e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12389720,
+				"locked_up_event_id": "log_ae6ca9af",
+				"account_address": "0xb94f5d34cd89C226f64aa23c41f331239bd04B03",
+				"value": 500000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 13938491,
+				"locked_up_event_id": "log_c31104b3",
+				"account_address": "0x6Fc8880A5F6B6fA300823d9962E57b843A3DEa67",
+				"value": 1e22,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 12343550,
+				"locked_up_event_id": "log_4f1ae0ba",
+				"account_address": "0xD9801361856a6b762e64a7CB7eEE91dEC5f019fB",
+				"value": 343723000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12345628,
+				"locked_up_event_id": "log_9b38bb8f",
+				"account_address": "0x7514A953781891464444B5454849b094258D9461",
+				"value": 337000000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 12443913,
+				"locked_up_event_id": "log_ed07dfb6",
+				"account_address": "0x7129FD777858CDC8A27cb7627F7Cd81C60d4C194",
+				"value": 500000000000000000000,
+				"property_address": "0xFd7619849f2EeF9041adcC6dCC6D8A2d47fEF271"
+			},
+			{
+				"block_number": 12460491,
+				"locked_up_event_id": "log_6f2c1cf7",
+				"account_address": "0x7CF2Fee60fc659F79a30Dc72FD107Fc028822064",
+				"value": 70850058635896906000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12461803,
+				"locked_up_event_id": "log_a5192eab",
+				"account_address": "0x461f093adBA2f7B81E0Dcc9e16A2C05D1C0Cc1cB",
+				"value": 235828515984567900000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12707721,
+				"locked_up_event_id": "log_401654a7",
+				"account_address": "0x2a4A309AFd75F8B0799B1f6447Fc1aaf4ED99124",
+				"value": 49148379070000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 13107580,
+				"locked_up_event_id": "log_ec66abd9",
+				"account_address": "0x8F4bd78Df4352fF6D6e3683CdE5C8bFBE9Ed0337",
+				"value": 100000000000000000000,
+				"property_address": "0x7223E9E492e341F357dF950E300F5a0771C2EDF0"
+			},
+			{
+				"block_number": 12188424,
+				"locked_up_event_id": "log_39d4b514",
+				"account_address": "0xd55BC56eA452C51ac5397090602952d838624E07",
+				"value": 859000000000000000,
+				"property_address": "0x9F84201eF565eb4179D5b3FBbFedFdd450EA037e"
+			},
+			{
+				"block_number": 12537913,
+				"locked_up_event_id": "log_a81bc399",
+				"account_address": "0x896e99a02C28a6B0ba3F9F9A4ab9368C7c23d8c8",
+				"value": 478000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 10227522,
+				"locked_up_event_id": "log_bbe36e3e",
+				"account_address": "0xF020fb6B15bdA3621e31563a884ac1D9F2D07093",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10227562,
+				"locked_up_event_id": "log_420e1fbc",
+				"account_address": "0xF020fb6B15bdA3621e31563a884ac1D9F2D07093",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 10227587,
+				"locked_up_event_id": "log_b9253395",
+				"account_address": "0x554EdC1Cab069f334491d7D00bA058cd96e27360",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10227636,
+				"locked_up_event_id": "log_f26235b3",
+				"account_address": "0xF020fb6B15bdA3621e31563a884ac1D9F2D07093",
+				"value": 1000000000000000000,
+				"property_address": "0x50e310dcd668A49d610d0f8a0a7D42B27e3be010"
+			},
+			{
+				"block_number": 10748021,
+				"locked_up_event_id": "log_34b23729",
+				"account_address": "0x05683DbB8201af0bbb9558148E866a9B7bea83b0",
+				"value": 100000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 11268494,
+				"locked_up_event_id": "log_4f04ea32",
+				"account_address": "0x459D570Ac4B8Ce09a32D28fF311a02763Edae6Ef",
+				"value": 260000000000000000000,
+				"property_address": "0xCbab4c606Dc2eEFE5Aa716d4892D272040FCA053"
+			},
+			{
+				"block_number": 11971071,
+				"locked_up_event_id": "log_9e44843b",
+				"account_address": "0xa1F2C7604E2Bedb905191624f7b979C40191ba25",
+				"value": 486970432753637100000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12720016,
+				"locked_up_event_id": "log_4685c01a",
+				"account_address": "0xD96ECD4Ffd0dEdacc3df7A0bbE6152E8acC89717",
+				"value": 1.29206e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 11483319,
+				"locked_up_event_id": "log_0de09af2",
+				"account_address": "0x5ac50421A1097172Fb4bf2904Bc2c58C31AFB083",
+				"value": 40000000000000000000,
+				"property_address": "0x7dC42FA19C5CfDfACdcf7B7bEeE9b6CfC77A6F1b"
+			},
+			{
+				"block_number": 13759391,
+				"locked_up_event_id": "log_acd3f5c7",
+				"account_address": "0x790a6c3C8F66BF7b10Ef183eB587842C12b3Af7C",
+				"value": 30000000000000000000,
+				"property_address": "0xd6973869bdfe10eE6C5973259789A866F6f829c0"
+			},
+			{
+				"block_number": 13957809,
+				"locked_up_event_id": "log_34f97c0f",
+				"account_address": "0xE3A56c373387A9eb3DB83A5eDfBAfBa46DD014Da",
+				"value": 7.213261824796987e21,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11711152,
+				"locked_up_event_id": "log_12699f07",
+				"account_address": "0x5d26d3a36db0d28336331cb58D96d17cde3D0655",
+				"value": 17000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11426862,
+				"locked_up_event_id": "log_d1172f4e",
+				"account_address": "0x77A77cBb38FDaC42e42bc694269a3BEc2cC4947B",
+				"value": 22000000000000000000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10738505,
+				"locked_up_event_id": "log_c969bb56",
+				"account_address": "0xcCcb99a42C079BB9Eec95D77cec152905a909408",
+				"value": 15000000000000000000,
+				"property_address": "0x90f625C2D81Cc271270Bd52beA6C53eb8A0F3bD2"
+			},
+			{
+				"block_number": 10236482,
+				"locked_up_event_id": "log_854e4801",
+				"account_address": "0xC109F54175BA9e43DF802F458eCB68dCEb673B01",
+				"value": 1000000000000000000,
+				"property_address": "0x68c824db5A1634940BB838468Ff2aee2bDa5794B"
+			},
+			{
+				"block_number": 11971261,
+				"locked_up_event_id": "log_3630d054",
+				"account_address": "0x25125E438b7Ae0f9AE8511D83aBB0F4574217C7a",
+				"value": 1.0455e21,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 10739068,
+				"locked_up_event_id": "log_605bdc22",
+				"account_address": "0xbD76B76DEd931aDEE0D022E3B8d6AC058EBf1556",
+				"value": 66000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12238957,
+				"locked_up_event_id": "log_eacc4b96",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 2.035e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 11989042,
+				"locked_up_event_id": "log_16b87582",
+				"account_address": "0x56E773B0a620205E9f72265b6013b65B84c2c4aF",
+				"value": 946699946419578500000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 14132790,
+				"locked_up_event_id": "log_d0c10b66",
+				"account_address": "0xa26af593f1F633d7357784b0354EFd636E14dd6d",
+				"value": 9.387455058421577e21,
+				"property_address": "0x55f31498d9de5e738e52CCbC393196FA9e16e62D"
+			},
+			{
+				"block_number": 12699872,
+				"locked_up_event_id": "log_4294c460",
+				"account_address": "0xF5ADE58B10dFE64005eF10bb9073734e82f5EDaa",
+				"value": 612143525506891600000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12944640,
+				"locked_up_event_id": "log_94488831",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 2e21,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 11675001,
+				"locked_up_event_id": "log_f16036dd",
+				"account_address": "0x8A379a9Bd84789FBa9eD3B25D2a6110D0eE66a4e",
+				"value": 15100058940368353000,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 10260431,
+				"locked_up_event_id": "log_5704b786",
+				"account_address": "0xd30391E21741C54c32987bCfcA3D880E6D261Cb0",
+				"value": 2000000000000000000,
+				"property_address": "0x50e310dcd668A49d610d0f8a0a7D42B27e3be010"
+			},
+			{
+				"block_number": 13018217,
+				"locked_up_event_id": "log_82a1a2eb",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 1e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 10261093,
+				"locked_up_event_id": "log_919a732d",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 13055753,
+				"locked_up_event_id": "log_c946c740",
+				"account_address": "0x5276d3141A12E7884DfAEdF82beaF2c7178F148E",
+				"value": 99793342349959220000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 11754943,
+				"locked_up_event_id": "log_6d5a69a5",
+				"account_address": "0xF0E1dca77b2a40113F3091B7Ef6c30feB6405B3F",
+				"value": 65000000000000000,
+				"property_address": "0xF6899a1536E6474f0a6Aa2b36714e9632FB97D40"
+			},
+			{
+				"block_number": 10268686,
+				"locked_up_event_id": "log_f3ff0286",
+				"account_address": "0x99A2fFEaF83acb11FFa9EE76821648cE96B29De0",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 11821951,
+				"locked_up_event_id": "log_157e1589",
+				"account_address": "0x36FC99c654236E5699b5f64EEE991A0D54a098Fe",
+				"value": 1e21,
+				"property_address": "0x6AC804A994D01F3E8DA3e23774632Bd48F107fc9"
+			},
+			{
+				"block_number": 12082530,
+				"locked_up_event_id": "log_230f601b",
+				"account_address": "0x006f7DA5fE8B1a45D364a677499333099CDb4b75",
+				"value": 2e21,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12095409,
+				"locked_up_event_id": "log_016a6b5f",
+				"account_address": "0xfae880ADdFdF2CC475606471C89d47E22D1e11Fb",
+				"value": 85844045894030520000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 10275227,
+				"locked_up_event_id": "log_866bb914",
+				"account_address": "0x8c21336D62a832B983064eaD61B77ca92eD7969c",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 12019835,
+				"locked_up_event_id": "log_7262947f",
+				"account_address": "0xdff92A1D3c7832CBCc762eE5F326679dd801648E",
+				"value": 9.62305e21,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 12116329,
+				"locked_up_event_id": "log_7c76e270",
+				"account_address": "0xA8EbE6DcDa66bB74a8DB994554d2Ad277cb54aDa",
+				"value": 549702162225387,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12431554,
+				"locked_up_event_id": "log_258043e4",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 500000000000000000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12223626,
+				"locked_up_event_id": "log_bd9573af",
+				"account_address": "0xA1Bf55B6A7D5F38B13d95733B5880BB21FA7E06F",
+				"value": 54931043960262205000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12252032,
+				"locked_up_event_id": "log_71c5a7f9",
+				"account_address": "0x24380c650014A08fAE277D6a8B7F933f80D51dd3",
+				"value": 200000000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12296720,
+				"locked_up_event_id": "log_789c8114",
+				"account_address": "0xDAfa9e3dAe493F0B9D6872EFf4fda0f40D1b7488",
+				"value": 96052001770000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 13298654,
+				"locked_up_event_id": "log_3e3ede7b",
+				"account_address": "0x4b510EDb1f076f1664a1416Eb34a1a7880D2DAA7",
+				"value": 100000000000000000000,
+				"property_address": "0x65D6c1a5A31d49591d3BE41D1cc9a91F2b6209f4"
+			},
+			{
+				"block_number": 12304452,
+				"locked_up_event_id": "log_8c9020a2",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 200292939414768000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12309509,
+				"locked_up_event_id": "log_47c28195",
+				"account_address": "0xF8D1D8974DFDe855975fF4351Fa0967c4ae9a2Bf",
+				"value": 385141738367821350000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12315599,
+				"locked_up_event_id": "log_53c87023",
+				"account_address": "0x382d11adfDFA25E57B68DcADA0F6CcF17BAA81ad",
+				"value": 271000000000000000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12361183,
+				"locked_up_event_id": "log_d0db8c6b",
+				"account_address": "0x3e4e26bF6932646BFf50c1887c43E985Fd8A2a08",
+				"value": 883000000000000000000,
+				"property_address": "0xC34BE54E48bfB1e97ba13B829BaFBFe6CE6E6193"
+			},
+			{
+				"block_number": 12391205,
+				"locked_up_event_id": "log_ce15bf8b",
+				"account_address": "0x71c57eD3421D9f11eFCBfc1f80126938DA9a973a",
+				"value": 10050000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12437963,
+				"locked_up_event_id": "log_a355b1ec",
+				"account_address": "0xDFabfaE044D22178Af24896c57ab43A55F7a8788",
+				"value": 100620000000000000000,
+				"property_address": "0x014f98F05c0BeD44B4Cf0532a93312a2135afaB8"
+			},
+			{
+				"block_number": 12444981,
+				"locked_up_event_id": "log_a8d3d744",
+				"account_address": "0xeF94a7F6AeCeFEbD6c46652b674d78FA6f856b81",
+				"value": 28206000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 10284914,
+				"locked_up_event_id": "log_be7928f1",
+				"account_address": "0xbd7AC68161f86990B6e248F7E5D31eD322Af6fDF",
+				"value": 1000000000000000000,
+				"property_address": "0xcEBD1BF31DF3E3697Ea26e2F94F9E3644C809F46"
+			},
+			{
+				"block_number": 10593467,
+				"locked_up_event_id": "log_d52c7656",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xCC2bD82B7e44a2d4CfDF4dCBB474d6248FE96289"
+			},
+			{
+				"block_number": 10593467,
+				"locked_up_event_id": "log_248407f3",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0x198F78dCD5f3699e9FD5FFd16887c1103c81f8D8"
+			},
+			{
+				"block_number": 10593468,
+				"locked_up_event_id": "log_6e713450",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xD2b0745b5A41c374e9358Fc1902CEd44895e6481"
+			},
+			{
+				"block_number": 10593468,
+				"locked_up_event_id": "log_105c0e16",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0x900e646dE4B1123dC89E809062c39752570aCFB4"
+			},
+			{
+				"block_number": 10593472,
+				"locked_up_event_id": "log_f0abffd0",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xbfEa2faF22DC850febD0146F2aadC0145b8902F6"
+			},
+			{
+				"block_number": 10593474,
+				"locked_up_event_id": "log_c8b9028e",
+				"account_address": "0x6Ad3C0b8D8509e94F597e86465c4e79738dd6349",
+				"value": 1000000000000000000,
+				"property_address": "0xe6770e723Ce3319726CE881c55E3D5d2c4c213Cf"
+			},
+			{
+				"block_number": 12075193,
+				"locked_up_event_id": "log_64fe9db3",
+				"account_address": "0x738FBD9e9eF69fd8c80240B57188468d2d297406",
+				"value": 6000000000000000000,
+				"property_address": "0x4Dfd87f4D9cb1f5345AE3F5fAB85be4218543283"
+			},
+			{
+				"block_number": 13760023,
+				"locked_up_event_id": "log_761c9580",
+				"account_address": "0x790a6c3C8F66BF7b10Ef183eB587842C12b3Af7C",
+				"value": 1.5e21,
+				"property_address": "0x1ebbD3EAFCc5CfF3B41053e746F51421c285d5dF"
+			},
+			{
+				"block_number": 12909579,
+				"locked_up_event_id": "log_ef016de6",
+				"account_address": "0x146d30fF40c3b613ca4f28D22E52C77DeF16E677",
+				"value": 1.587678370526681e21,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 10875692,
+				"locked_up_event_id": "log_b0f0b9d3",
+				"account_address": "0xFDb635664D2A309b7C1a94FFC2588931937b5DC1",
+				"value": 12285000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 13853674,
+				"locked_up_event_id": "log_72ca0b8a",
+				"account_address": "0x6677B978ef555e92D1DCBA887664EBdF2bF200A8",
+				"value": 890631704349794900000,
+				"property_address": "0x6FC83305afb1083CE1Db511d252B47A38CFCE1f7"
+			},
+			{
+				"block_number": 11994324,
+				"locked_up_event_id": "log_ab3876a9",
+				"account_address": "0x5aaB968B4eF5eB9b41516b0d85dB64a2867f1B61",
+				"value": 521278278854383700000,
+				"property_address": "0xF6899a1536E6474f0a6Aa2b36714e9632FB97D40"
+			},
+			{
+				"block_number": 13975306,
+				"locked_up_event_id": "log_730b1a97",
+				"account_address": "0xb39Eaff144eeDC809Af28C82da55d6063c797F1c",
+				"value": 2.017e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12304553,
+				"locked_up_event_id": "log_920b4726",
+				"account_address": "0xF5FcD3a63abc766Ac5ADa296B4A4E860dBF9ebb0",
+				"value": 705769566445669000,
+				"property_address": "0x6FC83305afb1083CE1Db511d252B47A38CFCE1f7"
+			},
+			{
+				"block_number": 11755170,
+				"locked_up_event_id": "log_2ed99271",
+				"account_address": "0xE2bC77071F0e3826F7da36b9760B234bC0c44CDF",
+				"value": 21120000000000000000,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 10792704,
+				"locked_up_event_id": "log_48fb2bd9",
+				"account_address": "0x650296AfC42CcdA052B7ee62dCe27E462e9Cd626",
+				"value": 1000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12333694,
+				"locked_up_event_id": "log_3d996897",
+				"account_address": "0x70bDc226EA2A8bE4719B79c44534F642e56e0e5b",
+				"value": 3849556141276821,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12099168,
+				"locked_up_event_id": "log_b4718be9",
+				"account_address": "0x18203B8F6c8031F2F629554aC5cf37cB6E5Dc796",
+				"value": 100000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 11826440,
+				"locked_up_event_id": "log_26b42e27",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 1.1442982038449154e21,
+				"property_address": "0xEb51F55A80E62D6dE7598d0963614A0c85692584"
+			},
+			{
+				"block_number": 12108346,
+				"locked_up_event_id": "log_2ce446b0",
+				"account_address": "0x2B19fDE5d7377b48BE50a5D0A78398a496e8B15C",
+				"value": 148466727271543200000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 11533381,
+				"locked_up_event_id": "log_c7919319",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 5000000000000000000,
+				"property_address": "0x6FC83305afb1083CE1Db511d252B47A38CFCE1f7"
+			},
+			{
+				"block_number": 11590659,
+				"locked_up_event_id": "log_f9dabe65",
+				"account_address": "0x2DD956e1411B16b9C2235d4a4026c8eDF441C970",
+				"value": 1440232507155333600,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 11438937,
+				"locked_up_event_id": "log_57a47e29",
+				"account_address": "0xde9a65d3F549EDD70163795479a7c88d13DbB15C",
+				"value": 42000000000000000000,
+				"property_address": "0xF6899a1536E6474f0a6Aa2b36714e9632FB97D40"
+			},
+			{
+				"block_number": 11654535,
+				"locked_up_event_id": "log_42955283",
+				"account_address": "0xE06C456bD0459A526485a1683689F48FD9b3918D",
+				"value": 914000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12116362,
+				"locked_up_event_id": "log_6c61b426",
+				"account_address": "0x506b0BBc499ef29bd09514E30eEcfB01AD53A344",
+				"value": 101000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12129418,
+				"locked_up_event_id": "log_9b7fbf7e",
+				"account_address": "0xb79223E868871DBAc27E8E301f73734abd4Cc628",
+				"value": 72000000000000000000,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 12151765,
+				"locked_up_event_id": "log_ddea1de9",
+				"account_address": "0x1606c25f314165Dd5CC67919fBC149f3bd7BF9aC",
+				"value": 626055796880792200,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12351006,
+				"locked_up_event_id": "log_075cadaa",
+				"account_address": "0x4B8F8918E16a94b76800A1E15e17D17B83eF9875",
+				"value": 6900000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12193036,
+				"locked_up_event_id": "log_4771acd0",
+				"account_address": "0x7A69a8399740fcB54a182957181a5FCA675e1eF5",
+				"value": 989464000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12383673,
+				"locked_up_event_id": "log_9871912a",
+				"account_address": "0xd4bc100c03C16582977211043021a1d4327D92D7",
+				"value": 4000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12361611,
+				"locked_up_event_id": "log_2c022e94",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 209000000000000000000,
+				"property_address": "0x9f535E3c63Cd1447164BED4933d1efefBbC97a3f"
+			},
+			{
+				"block_number": 12948974,
+				"locked_up_event_id": "log_ca9ee886",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 30000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12254660,
+				"locked_up_event_id": "log_f962cee6",
+				"account_address": "0x07514358ae6FB87C5e9E33a61b51768D43021883",
+				"value": 58000000000000000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12275995,
+				"locked_up_event_id": "log_3507a8dd",
+				"account_address": "0xDb5C70D55D427AC1063330129499e1806C50cb0A",
+				"value": 700000000000000000000,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 12304539,
+				"locked_up_event_id": "log_0a6d97a7",
+				"account_address": "0x5b44912B3923741be0179cEa65555F0ac8A5a91F",
+				"value": 3.3e21,
+				"property_address": "0x3C6E5FA78282413116FF6d8b8fc1F76cB52a6b71"
+			},
+			{
+				"block_number": 13021331,
+				"locked_up_event_id": "log_016fad63",
+				"account_address": "0xb77d6AE6E15617092bdF3c8Ef469286E032786ED",
+				"value": 500000000000000000000,
+				"property_address": "0x04c8c053921a3c5b97F89b4e745525E6a4412149"
+			},
+			{
+				"block_number": 12315640,
+				"locked_up_event_id": "log_55c5019a",
+				"account_address": "0xBB8632b2596D652F4432F16313cC606ae61C3629",
+				"value": 305903000000000000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12338838,
+				"locked_up_event_id": "log_f70b6e49",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 696000000000000000000,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 12379818,
+				"locked_up_event_id": "log_542fa77e",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 612000000000000000000,
+				"property_address": "0x3C6E5FA78282413116FF6d8b8fc1F76cB52a6b71"
+			},
+			{
+				"block_number": 13107629,
+				"locked_up_event_id": "log_1ba422ff",
+				"account_address": "0xA97DF59B2eB922Aeb81009d411C84802709D434D",
+				"value": 100000000000000000000,
+				"property_address": "0x7223E9E492e341F357dF950E300F5a0771C2EDF0"
+			},
+			{
+				"block_number": 12384837,
+				"locked_up_event_id": "log_985fb357",
+				"account_address": "0xE65DC3100e6b0050EDeAaC1B9dACE81f9bc44b76",
+				"value": 194000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12301477,
+				"locked_up_event_id": "log_b225072b",
+				"account_address": "0xc4b9EE91F8FF6fEc6002087b9C6645403Cf1c90d",
+				"value": 269000000000000000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12213945,
+				"locked_up_event_id": "log_916cdbf3",
+				"account_address": "0x1bAd1783ab45Cf35fF439Ac9258748229F295845",
+				"value": 1e21,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 13211258,
+				"locked_up_event_id": "log_fdbb7d3a",
+				"account_address": "0x7c3b0eDeD58142D6964C32De6FE165c42671f7aB",
+				"value": 10000000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12451113,
+				"locked_up_event_id": "log_077e0015",
+				"account_address": "0x3595374322352c6f6Ba1507787020b26Dd39a6B1",
+				"value": 166340000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12454342,
+				"locked_up_event_id": "log_5a834c27",
+				"account_address": "0x942c49Ee2D4F100050fdd2656d0322AAf7B789ec",
+				"value": 201456932219172880000,
+				"property_address": "0x5b91e12475a483c2049248D530137d3038310a31"
+			},
+			{
+				"block_number": 13305046,
+				"locked_up_event_id": "log_82723922",
+				"account_address": "0xFA05346912436DF7e920248D394Fc1cfCA2f271b",
+				"value": 25000000000000000000,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 12508483,
+				"locked_up_event_id": "log_ceaba55a",
+				"account_address": "0x7129FD777858CDC8A27cb7627F7Cd81C60d4C194",
+				"value": 250000000000000000000,
+				"property_address": "0x0f60D5036D0306B0aB20027fB4BFdb10183366ca"
+			},
+			{
+				"block_number": 12538424,
+				"locked_up_event_id": "log_0c697056",
+				"account_address": "0xF9107317B0fF77eD5b7ADea15e50514A3564002B",
+				"value": 400000000000000000000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12509180,
+				"locked_up_event_id": "log_02e2dcd5",
+				"account_address": "0x7129FD777858CDC8A27cb7627F7Cd81C60d4C194",
+				"value": 250000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12517955,
+				"locked_up_event_id": "log_d1669bee",
+				"account_address": "0xb760e92E3A3e250ADC19E06Ec641C2a57cf0f9c1",
+				"value": 1.3263097982802012e21,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 12518907,
+				"locked_up_event_id": "log_c7deee20",
+				"account_address": "0x896b94f4f27f12369698C302e2049cAe86936BbB",
+				"value": 2.9542640280817243e21,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12742930,
+				"locked_up_event_id": "log_a75741a1",
+				"account_address": "0xC51B8d492BF5B2365daCB3D9F4DcFb76054ea334",
+				"value": 12667148161970686000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12521798,
+				"locked_up_event_id": "log_a8afd1e5",
+				"account_address": "0xda60C40797784aF193925858beFe8BeB9E572766",
+				"value": 100000000000000000000,
+				"property_address": "0x4abBb472e200B73ee4D63d81736a4517BaFE3449"
+			},
+			{
+				"block_number": 13867875,
+				"locked_up_event_id": "log_55d2c291",
+				"account_address": "0x991fcA32f5411834029c5f4E7C13B052f7386E1F",
+				"value": 4.315e21,
+				"property_address": "0x2De96256231e5540A5A292Fb0EBF65651Eff0dAf"
+			},
+			{
+				"block_number": 12460697,
+				"locked_up_event_id": "log_4ce70260",
+				"account_address": "0xA9F1BdcC979D2Ff95b28223c1DE182228A0266B4",
+				"value": 5580869852486285,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12526419,
+				"locked_up_event_id": "log_6a331fab",
+				"account_address": "0x5bA44CFC6672522E2C560830bf87024604DbCdF8",
+				"value": 333000000000000000000,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 12530355,
+				"locked_up_event_id": "log_7a139d16",
+				"account_address": "0x6c15FF9e26EC883B2C4ceFD55A253Ed54E352e8F",
+				"value": 4.06639e21,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 12532289,
+				"locked_up_event_id": "log_2278d4ec",
+				"account_address": "0xfFdAf18197f7aB147da4d036F95c73764b7a9530",
+				"value": 24000000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12763558,
+				"locked_up_event_id": "log_6f1afc73",
+				"account_address": "0x49d56C2020cAAe817C3b493B00E5c6dEC02f140C",
+				"value": 598871378178486200000,
+				"property_address": "0xd670448759C12A08Ed3f3D1CB1E14FbfF3f88d14"
+			},
+			{
+				"block_number": 13229877,
+				"locked_up_event_id": "log_27b083d3",
+				"account_address": "0x6c1A250f038F7aD76b5D08b59fDF84d6F5907B03",
+				"value": 1.4021e22,
+				"property_address": "0xd6973869bdfe10eE6C5973259789A866F6f829c0"
+			},
+			{
+				"block_number": 12537969,
+				"locked_up_event_id": "log_431b1482",
+				"account_address": "0xDFabfaE044D22178Af24896c57ab43A55F7a8788",
+				"value": 40000000000000000000,
+				"property_address": "0x5Ff1768527971813915529B0266A9e64200A26F8"
+			},
+			{
+				"block_number": 12802971,
+				"locked_up_event_id": "log_4c73c2bb",
+				"account_address": "0xa37C8F388ab4864F32F2D37249B8436B6B2EB767",
+				"value": 140000000000000000000,
+				"property_address": "0x14308514785B216904a41aB817282d25425Cce39"
+			},
+			{
+				"block_number": 13023258,
+				"locked_up_event_id": "log_2d35fcfd",
+				"account_address": "0xB4753a3572d05b62F108894af54Cd5244AB10D04",
+				"value": 1.118755455530055e21,
+				"property_address": "0xd6973869bdfe10eE6C5973259789A866F6f829c0"
+			},
+			{
+				"block_number": 12540718,
+				"locked_up_event_id": "log_54770a46",
+				"account_address": "0x7129FD777858CDC8A27cb7627F7Cd81C60d4C194",
+				"value": 250000000000000000000,
+				"property_address": "0x80a7Bad00B82BeB63fE5680a39bC7Ac609fF086f"
+			},
+			{
+				"block_number": 12540794,
+				"locked_up_event_id": "log_37d58edb",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 2e21,
+				"property_address": "0x80a7Bad00B82BeB63fE5680a39bC7Ac609fF086f"
+			},
+			{
+				"block_number": 12541023,
+				"locked_up_event_id": "log_aeef2cef",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 200000000000000000000,
+				"property_address": "0xb8050a622135Ae78682222Be5cDC6c8773FbFE30"
+			},
+			{
+				"block_number": 12541038,
+				"locked_up_event_id": "log_92b3c30b",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 165000000000000000000,
+				"property_address": "0x8DC86777aefe019c994A70b5c6471e03d2E86568"
+			},
+			{
+				"block_number": 12541039,
+				"locked_up_event_id": "log_005c6be8",
+				"account_address": "0xAb0658c66670d93BF47B4b8D5797edD0a60F43A0",
+				"value": 165000000000000000000,
+				"property_address": "0x5C7db549a025586DEc6667b3c0217e2e97f19033"
+			},
+			{
+				"block_number": 12542036,
+				"locked_up_event_id": "log_6ea11a15",
+				"account_address": "0x6F4a9a3834b519fFfb74DaB46B8e774c0eF6868B",
+				"value": 200000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14010571,
+				"locked_up_event_id": "log_062ddc86",
+				"account_address": "0x5b501bd206bB372C7B23B05ECDb7b0aF5829eC63",
+				"value": 1.20000047889e21,
+				"property_address": "0xC34BE54E48bfB1e97ba13B829BaFBFe6CE6E6193"
+			},
+			{
+				"block_number": 12554180,
+				"locked_up_event_id": "log_f6ac9042",
+				"account_address": "0x4CA0300B818ec57b40Eb829A07172463a5c7E407",
+				"value": 2e21,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 12545211,
+				"locked_up_event_id": "log_298a959d",
+				"account_address": "0xB3ebEe9d3E0bad437B75f4678D390c0d9608daF5",
+				"value": 148341991986881440,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12561221,
+				"locked_up_event_id": "log_43716cc5",
+				"account_address": "0xbc006c8C14760B51a8E8dB49b47A6e7D4B057Ce7",
+				"value": 107000000000000000000,
+				"property_address": "0xFa38Fc50e055CBE88Bd569eddCcE057999B2BC9C"
+			},
+			{
+				"block_number": 12562786,
+				"locked_up_event_id": "log_011aaa88",
+				"account_address": "0xC643e53A8Cba5C898844DD340D274411B874698E",
+				"value": 120745884230000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12563678,
+				"locked_up_event_id": "log_ffe28060",
+				"account_address": "0x7e3750018216E2F3F750fD3c103d242a17F508Ea",
+				"value": 523807000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12565348,
+				"locked_up_event_id": "log_b8a86064",
+				"account_address": "0x1a4e40dc2F6a992b3b3D90f024E6803e94F66fCc",
+				"value": 13673054020000000000,
+				"property_address": "0xC34BE54E48bfB1e97ba13B829BaFBFe6CE6E6193"
+			},
+			{
+				"block_number": 12569484,
+				"locked_up_event_id": "log_37eef67b",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 18647000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12952112,
+				"locked_up_event_id": "log_6f6d3ee1",
+				"account_address": "0xc10aFA5D603C6081F770f28261dc9dcd5f0B8e39",
+				"value": 2.3e21,
+				"property_address": "0x90168f9Ba07B95f629f8b77F789d46A549d6470F"
+			},
+			{
+				"block_number": 12570681,
+				"locked_up_event_id": "log_d212cadb",
+				"account_address": "0x3942Ae3782FbD658CC19A8Db602D937baF7CB57A",
+				"value": 157638911772508100000,
+				"property_address": "0x28Ea94a44D5a85cAa13016d4eEFdfe5A669A2994"
+			},
+			{
+				"block_number": 12509507,
+				"locked_up_event_id": "log_4b07b320",
+				"account_address": "0xe062f91033310772fdbAb80ACfb6b72164D82e91",
+				"value": 2.9000001289838505e21,
+				"property_address": "0x04c8c053921a3c5b97F89b4e745525E6a4412149"
+			},
+			{
+				"block_number": 13007801,
+				"locked_up_event_id": "log_ebe613e8",
+				"account_address": "0xbE886d6229008C9e5171f34232fe4Ee137fb7CB9",
+				"value": 191165692960000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12574157,
+				"locked_up_event_id": "log_c8769381",
+				"account_address": "0x1bAd1783ab45Cf35fF439Ac9258748229F295845",
+				"value": 1e21,
+				"property_address": "0x4cb307CF044f408C8e71caaf36d8De1Ea5ebA0BC"
+			},
+			{
+				"block_number": 14022643,
+				"locked_up_event_id": "log_810519e7",
+				"account_address": "0x6A4F0d84cc4a7346FEf77837aFd98a29f2C1afB2",
+				"value": 50000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 13111995,
+				"locked_up_event_id": "log_897ac62a",
+				"account_address": "0x625da2e72868B47D84bd68D715aaAEaA2AB06477",
+				"value": 100000000000000000000,
+				"property_address": "0x44d871aebF0126Bf646753E2C976Aa7e68A66c15"
+			},
+			{
+				"block_number": 12575379,
+				"locked_up_event_id": "log_2fe4463f",
+				"account_address": "0x444EceE124F0a13f9C7b9e26bC5405a82EE8527B",
+				"value": 153991000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12525679,
+				"locked_up_event_id": "log_456c2f0a",
+				"account_address": "0xfA7C324CB1d3b0128fEAa246c93417829Bc23809",
+				"value": 2433430298595406,
+				"property_address": "0x8DC86777aefe019c994A70b5c6471e03d2E86568"
+			},
+			{
+				"block_number": 12578940,
+				"locked_up_event_id": "log_a8f30f61",
+				"account_address": "0x348b9ee858D0D88f90d661D92d2e37dD909c0A40",
+				"value": 521792406048681300000,
+				"property_address": "0x4cb307CF044f408C8e71caaf36d8De1Ea5ebA0BC"
+			},
+			{
+				"block_number": 12580697,
+				"locked_up_event_id": "log_4ba90c65",
+				"account_address": "0xD3B282e9880cDcB1142830731cD83f7ac0e1043f",
+				"value": 10000000000000000000,
+				"property_address": "0x4cb307CF044f408C8e71caaf36d8De1Ea5ebA0BC"
+			},
+			{
+				"block_number": 12581475,
+				"locked_up_event_id": "log_ef66078d",
+				"account_address": "0xF3D9281fa183B74F32B96E1c5244596045f4edE8",
+				"value": 222000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12581816,
+				"locked_up_event_id": "log_0f9aa90a",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 20816000000000000000,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12583653,
+				"locked_up_event_id": "log_96c0b098",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 2e21,
+				"property_address": "0x0463C7d5F9E3D176e4e82092F3AD594AF1e185ec"
+			},
+			{
+				"block_number": 13306444,
+				"locked_up_event_id": "log_1c9236dc",
+				"account_address": "0xbf9caAeb056fEb950aeFF46269aa55f450C895DF",
+				"value": 675263000000000000000,
+				"property_address": "0x8DC86777aefe019c994A70b5c6471e03d2E86568"
+			},
+			{
+				"block_number": 12681017,
+				"locked_up_event_id": "log_1a2a6a35",
+				"account_address": "0xB3ebEe9d3E0bad437B75f4678D390c0d9608daF5",
+				"value": 168539161719511,
+				"property_address": "0x80a7Bad00B82BeB63fE5680a39bC7Ac609fF086f"
+			},
+			{
+				"block_number": 12663386,
+				"locked_up_event_id": "log_e48cd9a3",
+				"account_address": "0xfA7C324CB1d3b0128fEAa246c93417829Bc23809",
+				"value": 36147894744707250,
+				"property_address": "0x2bAd6115E56015Ae16c107D18d1D552129eD8B03"
+			},
+			{
+				"block_number": 12957152,
+				"locked_up_event_id": "log_af868436",
+				"account_address": "0x2203D34e4cC4140b6D4bfCfE74Fa4Aa9fB10c36b",
+				"value": 1.7769336878970813e22,
+				"property_address": "0x973F66AaA87961CeaD2DC93C15a1D81e7EDC4A32"
+			},
+			{
+				"block_number": 12585962,
+				"locked_up_event_id": "log_030cc82d",
+				"account_address": "0x3996D2AF9aa5bA6d38d569d5CD3894A201139e6D",
+				"value": 100000000000000000000,
+				"property_address": "0xdFB462BfD71128b96DB742a2621aEb801c4FD611"
+			},
+			{
+				"block_number": 13878820,
+				"locked_up_event_id": "log_acae8f21",
+				"account_address": "0x27ef834D4A530C8ba24006c88e67524A5d30eD27",
+				"value": 100000000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12586522,
+				"locked_up_event_id": "log_23d10da2",
+				"account_address": "0xB585BDeb32523D6d4d42147bAb4c49F3B13668e1",
+				"value": 11560000000000000000,
+				"property_address": "0x8DC86777aefe019c994A70b5c6471e03d2E86568"
+			},
+			{
+				"block_number": 12586727,
+				"locked_up_event_id": "log_e502db2f",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 1.8932427740331023e21,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12590604,
+				"locked_up_event_id": "log_0b62811e",
+				"account_address": "0xFE61A98116Fe7dcB1b35fdd17817394408Ae4ad8",
+				"value": 167391931780856250000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12601873,
+				"locked_up_event_id": "log_f358fd76",
+				"account_address": "0x257f2d64A2C51584e2e650e9Fd9bC4A0621c549F",
+				"value": 203000000000000000000,
+				"property_address": "0xB6927E8c58fF0dAf9446F52fc499B2f78eB811A3"
+			},
+			{
+				"block_number": 12670185,
+				"locked_up_event_id": "log_c129460d",
+				"account_address": "0x4908Bf2c81a71647e6a579acbE1Bf1aa2778c874",
+				"value": 1.5e21,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 12608634,
+				"locked_up_event_id": "log_82695538",
+				"account_address": "0x5c9131E4c7e06A507137D2d0F2b8F9eed286A90b",
+				"value": 20000000000000000000,
+				"property_address": "0x649365EC24B86af08a28017F5063B35F70aA6615"
+			},
+			{
+				"block_number": 12611907,
+				"locked_up_event_id": "log_0b570b1b",
+				"account_address": "0x262A038D0bc05B4112c7D58BBfd407810bcfE2aB",
+				"value": 10000000000000000000,
+				"property_address": "0x5754027BF16BeEf077b1266699E45754b9a47b4D"
+			},
+			{
+				"block_number": 12625521,
+				"locked_up_event_id": "log_8eaab71e",
+				"account_address": "0x3703bF2FC31d017347C555dD6d180d09085E7356",
+				"value": 23000000000000000000,
+				"property_address": "0x4cb307CF044f408C8e71caaf36d8De1Ea5ebA0BC"
+			},
+			{
+				"block_number": 12627803,
+				"locked_up_event_id": "log_072ef2b7",
+				"account_address": "0xF3D9281fa183B74F32B96E1c5244596045f4edE8",
+				"value": 350000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12631094,
+				"locked_up_event_id": "log_62df381b",
+				"account_address": "0xDEd284B5c60FFC7BdBe707a10de301D566eCA86D",
+				"value": 50502725179830305000,
+				"property_address": "0xB6927E8c58fF0dAf9446F52fc499B2f78eB811A3"
+			},
+			{
+				"block_number": 12631555,
+				"locked_up_event_id": "log_fb432228",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 600000000000000000000,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12631607,
+				"locked_up_event_id": "log_f90b1483",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 150000000000000000000,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			},
+			{
+				"block_number": 12631607,
+				"locked_up_event_id": "log_ba972650",
+				"account_address": "0xeA05d80bb4Af52B9C103E634d94fAC3f24507d81",
+				"value": 300000000000000000000,
+				"property_address": "0x054A6F226eb6fe4dAB4945579A7ea314Ef29f5f5"
+			},
+			{
+				"block_number": 12643688,
+				"locked_up_event_id": "log_c13d8cc4",
+				"account_address": "0x3F2113d5c3E529f6E1463dAd118a15EBf016125c",
+				"value": 49950000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12646860,
+				"locked_up_event_id": "log_4fcc1b7e",
+				"account_address": "0x7AE4954C3385B48e88DffeCB1d1eD8bE9bABF9ee",
+				"value": 12556000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12648415,
+				"locked_up_event_id": "log_689c3306",
+				"account_address": "0xcc344De89bB3CB8F6c6134dDb338847cE58f64cA",
+				"value": 50000000000000000000,
+				"property_address": "0xc0af56c6BbB094FB4FA37C7E48A6fc6b84FB5B64"
+			},
+			{
+				"block_number": 12649650,
+				"locked_up_event_id": "log_1fe8f886",
+				"account_address": "0xC00fAaed03A511723E9a1C1b5D5A1F6B6E30F3cb",
+				"value": 13682000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12657661,
+				"locked_up_event_id": "log_bfb65d3d",
+				"account_address": "0xA004ddB864A1a4332B6F73AbaDEd9eAb880F2368",
+				"value": 727270000000000000000,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12658728,
+				"locked_up_event_id": "log_64983733",
+				"account_address": "0xa953D28E5DFbeE86646525885414B305ABa9662e",
+				"value": 181810000000000000000,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12661402,
+				"locked_up_event_id": "log_e8e43f24",
+				"account_address": "0xEC2A1e9C8D2E04AC6c7f5180a095c2D0a7E289A1",
+				"value": 110000000000000000000,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12603121,
+				"locked_up_event_id": "log_c8f8e5cb",
+				"account_address": "0xF69a65c5dc4842f7ee336b87a3ab08f924751806",
+				"value": 1819327045347640,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12662170,
+				"locked_up_event_id": "log_c4658d8f",
+				"account_address": "0x53B523cEa20fC0046d4502150B7fc74fB84DE597",
+				"value": 100000000000000000000,
+				"property_address": "0xf50Ab8025dc77443874765612f29A92A8E8A0058"
+			},
+			{
+				"block_number": 12664233,
+				"locked_up_event_id": "log_ed0c2458",
+				"account_address": "0x73C4BA0c86Ff69B73E6fbd7cDbAA85eCAD73D508",
+				"value": 5000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 12665380,
+				"locked_up_event_id": "log_2a72a6fe",
+				"account_address": "0x958D0813196Ed5872Bb770Fbf45eea1552C967a9",
+				"value": 70000000000000000000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 13113044,
+				"locked_up_event_id": "log_964b2a2a",
+				"account_address": "0x625da2e72868B47D84bd68D715aaAEaA2AB06477",
+				"value": 100000000000000000000,
+				"property_address": "0x65D6c1a5A31d49591d3BE41D1cc9a91F2b6209f4"
+			},
+			{
+				"block_number": 13352169,
+				"locked_up_event_id": "log_07b329ad",
+				"account_address": "0x3996D2AF9aa5bA6d38d569d5CD3894A201139e6D",
+				"value": 33000000000000000000,
+				"property_address": "0xfB4Dc85E5b92278f1131a63b6f1407A05e1DF341"
+			},
+			{
+				"block_number": 12681934,
+				"locked_up_event_id": "log_d700e3cf",
+				"account_address": "0xf54aa59CD95D85C3bf77DDe4c28d0B23f53cd1b6",
+				"value": 1e21,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 14118071,
+				"locked_up_event_id": "log_40137c67",
+				"account_address": "0xe244343f4BBba55332Eeb4fd9c1488D87341E70e",
+				"value": 1.487168e22,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12697468,
+				"locked_up_event_id": "log_001b0c54",
+				"account_address": "0xE145EC5d90E7ED6bCbCd46ACBc9774a6960b30F9",
+				"value": 62410000000000000000,
+				"property_address": "0xB6927E8c58fF0dAf9446F52fc499B2f78eB811A3"
+			},
+			{
+				"block_number": 12703354,
+				"locked_up_event_id": "log_b5cacf4b",
+				"account_address": "0xeB9b4BA2F0BDE47f52F3DCBbb350118741c53e25",
+				"value": 3.1551939171731327e21,
+				"property_address": "0x65D6c1a5A31d49591d3BE41D1cc9a91F2b6209f4"
+			},
+			{
+				"block_number": 12860635,
+				"locked_up_event_id": "log_ba1eb2d0",
+				"account_address": "0x324e1DAe9353714Ecf34af52c6407861Ed870Ee8",
+				"value": 96800000000000000000,
+				"property_address": "0xac1AC9d00314aE7B4a7d6DbEE4860bECedF92309"
+			},
+			{
+				"block_number": 12974115,
+				"locked_up_event_id": "log_33a14631",
+				"account_address": "0x26518b1995E8Afb0b8EcBc75Fda0A4500fb7a43D",
+				"value": 108659885089596260000,
+				"property_address": "0x528010540517Dd3B708d8Ff7036f841FEA0135b2"
+			},
+			{
+				"block_number": 13048161,
+				"locked_up_event_id": "log_aba9e96d",
+				"account_address": "0xE6d7194F927a01c1682D5f10aEF0E7162c0C5834",
+				"value": 20000000000000000000,
+				"property_address": "0x3059bD281418179A83cAE3771b0dD6C47807EA3a"
+			},
+			{
+				"block_number": 13113066,
+				"locked_up_event_id": "log_e9efb5f5",
+				"account_address": "0x625da2e72868B47D84bd68D715aaAEaA2AB06477",
+				"value": 100000000000000000000,
+				"property_address": "0x7223E9E492e341F357dF950E300F5a0771C2EDF0"
+			},
+			{
+				"block_number": 13234958,
+				"locked_up_event_id": "log_f90098e2",
+				"account_address": "0xfB48AFDa7B5FF3056313e700D14c9986f3De3DD3",
+				"value": 100000000000000000000,
+				"property_address": "0xB96cBb406F8Eb2712eD8A9055e285E28fd076548"
+			}
+		]
+	}
+}
